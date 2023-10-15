@@ -11,9 +11,9 @@ const Fitness = () => {
     <div className="w-80 m-auto">
       <ImageSlider store={store} category={"Fitness"} />
       <Gallary store={store} category={"Fitness"} />
-      <LatestPost store={store} category={"TechnologyLatest"} />
-      <LatestArticle store={store} category={"TechnologyArticle"} />
-      <LatestStories store={store} category={"TechnologyStories"} />
+      <LatestPost store={store} category={"FitnessLatest"} />
+      <LatestArticle store={store} category={"FitnessArticle"} />
+      <LatestStories store={store} category={"FitnessStories"} />
     </div>
   )
 }

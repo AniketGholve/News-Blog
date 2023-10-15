@@ -408,7 +408,7 @@ let data = [
         title: "New heart rhythm categorisation for stroke patients: Study",
         cat: "Fitness",
         date: "Oct 15, 2023 10:12 AM IST",
-        url: "https://www.hindustantimes.com/ht-img/img/2023/10/15/550x309/heart-health_49f8a0c6-1c25-11e6-878c-ac18b651cb15_1697344818488.jpg",
+        url: "https://assets-global.website-files.com/63723fe799096ad12312edc2/63c6bd2c8ef23521ea324f2f_53.png",
         desc: `A new study described the understanding of atrial fibrillation seen in stroke patients. According to the study, atrial fibrillation discovered after a stroke is not the same as irregular heartbeats known prior to the stroke.Millions of stroke survivors worldwide are subjected to extended cardiac monitoring, which leads to the identification of atrial fibrillation, or abnormal heartbeats, in up to 1.5 million of these patients each year.The study, led by Western University professor Dr. Luciano Sposato, proposes that atrial fibrillation detected post-stroke exhibits distinct characteristics. It has a lower prevalence of risk factors, cardiovascular comorbidities, and changes associated with upper chambers of the heart than atrial fibrillation known prior to the stroke. This could potentially explain its association with a decreased risk of another ischaemic stroke, which results from a blocked artery.`,
         user: 'Tapatrisha Das'
     },
@@ -420,6 +420,352 @@ let data = [
         url: "https://www.hindustantimes.com/ht-img/img/2023/10/14/550x309/shutterstock_food_1695987367138_1697283816560.jpg",
         desc: `"It's time to demystify this condition and take proactive steps towards a healthier liver. How does it happen? Fatty liver occurs when excess fat accumulates in your liver cells. This can be triggered by factors like a high-sugar diet, excessive alcohol consumption, obesity, and even genetics. It's a silent condition that can progress if left unchecked," writes Nutritionist Bhakti Arora Kapoor in her recent Instagram post.Dietary adjustments: Opt for a balanced diet rich in fruits, vegetables, whole grains, and lean proteins. Limit sugar, processed foods, and saturated fats`,
         user: 'Tapatrisha Das'
+    },
+    {
+        id: 46,
+        title: "Yoga For Workday: 3 Yoga Asanas For Much-Needed Relaxation And Wellness After Office",
+        cat: "FitnessLatest",
+        date: "Oct 15, 2023 10:12 AM IST",
+        url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2023/10/07/1294473-workplace-yoga.png?im=FitAndFill=(700,400)",
+        desc: `In today's fast-paced and demanding work environment, finding moments of tranquility and enhancing overall well-being is essential. Incorporating yoga into the workplace is a proven way to foster productivity, reduce stress, and promote mental and physical health. With a few simple yoga asanas, employees can rejuvenate their bodies and minds, creating a more harmonious and productive workspace. 
+        1. Mountain Pose (Tadasana) The Mountain Pose is a foundational yoga pose that promotes good posture, balance, and mental focus. 
+        2. Seated Cat-Cow Stretch
+        This gentle stretch is excellent for relieving tension in the back and neck, which is common among deskbound workers. 3. Chair Pose (Utkatasana)
+        Chair Pose is an energizing yoga pose that engages the muscles in the legs, strengthening the core and enhancing focus and determination.`,
+        user: 'Zee Media Bureau'
+    },
+    {
+        id: 47,
+        title: "Want To Lose Weight? 7 Smart Grocery Shopping Tips For Effective Weight Management",
+        cat: "FitnessLatest",
+        date: "Oct 01, 2023, 12:15 PM IST",
+        url: "https://imgeng.jagran.com/images/2023/may/weight-loss-diet-plans1683004313871.jpg",
+        desc: `Maintaining a healthy weight requires a balanced approach to diet and exercise. An essential component of this approach is making smart choices at the grocery store. By carefully selecting the right foods, you can set yourself on the path to effective weight management. In this article, we will discuss some practical shopping hacks that will aid in keeping those unwanted pounds at bay.
+
+        By prioritizing fresh produce, lean proteins, whole grains, and mindful snacking, and being vigilant about reading labels, you can take a significant step towards maintaining a healthy weight. Tips To Avoid Unnecessary Weight Gain
+        Navigating the grocery store with a weight management perspective involves making thoughtful choices and planning. Here's how:
+        
+        Plan Your Shopping List Ahead of Time
+        One of the fundamental strategies for successful grocery shopping is planning your list. This helps you stay focused and avoid unnecessary purchases that may not align with your weight management goals. Plan your meals for the week and make a detailed list of the items you need to prepare them.
+        
+        Prioritize Fresh Produce
+        Load your cart with a variety of colourful fruits and vegetables. They are low in calories, high in nutrients, and packed with fibre, helping you feel full and satisfied for longer. Opt for fresh, seasonal produce, and consider exploring local farmers' markets for the freshest options.
+        Opt for Lean Proteins
+        Lean protein sources like skinless poultry, fish, tofu, legumes, and low-fat dairy should be on your shopping list. These foods are rich in protein, which aids in building and repairing tissues, boosts metabolism, and promotes a feeling of fullness, preventing overeating.`,
+        user: 'Zee Media Bureau'
+    },
+    {
+        id: 48,
+        title: "Yoga For Digestive Health: 5 Daily Yoga Asanas To Enhance Gut Health And Aid Digestion",
+        cat: "FitnessLatest",
+        date: "Oct 01, 2023, 12:15 PM IST",
+        url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2023/09/26/1288318-digestion-yoga.png?im=FitAndFill=(700,400)",
+        desc: `Digestive issues have become increasingly prevalent. Stress, poor dietary habits, and sedentary lifestyles can wreak havoc on our digestive systems. Yoga's positive impact on digestive health extends beyond the physical realm. The mind-gut connection emphasizes that a healthy mind contributes to a healthy gut.
+        Yoga, with its emphasis on mindfulness, relaxation, and stress reduction, plays a crucial role in maintaining this balance. When we're stressed, our digestive system can become imbalanced, leading to various issues. Yoga's ability to alleviate stress can indirectly benefit our gut health.However, there is a natural and effective way to alleviate these concerns - yoga. This ancient practice not only rejuvenates the mind and body but can also promote digestive harmony and gut health. `,
+        user: 'Zee Media Bureau'
+    },
+    {
+        id: 49,
+        title: "Do you make these mistakes while walking? Fix your bad walking habits",
+        cat: "FitnessArticle",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://images.healthshots.com/healthshots/en/uploads/2023/10/15081632/shoes-2-770x436.jpg",
+        desc: `If you are walking to stay fit then you need to make sure your form is right and your shoes are comfortable, among other things. Check out the bad walking habits that you need to quit.Walking is a type of exercise that seems to be pretty easy. You don’t need to go to a gym or lift heavy weights or use any other equipment. Although it may seem straightforward, many people tend to make mistakes when walking. Bad walking habits can negatively impact your comfort, health and overall walking experience. So, before you tie up your laces and get ready to walk, find out the bad walking habits that you need to quit. 1. Improper footwear
+        Incorrect footwear can cause discomfort and even harm, says fitness expert Aminder Singh of Team Aminder. Make sure your shoes are well-fitting, comfortable and have enough front width for your toes to spread naturally. This way there will be less chances of you getting blisters and other foot-related problems.2. Poor posture
+        Proper posture must always be maintained for effective walking. Maintain a straight posture and refrain from slouching. This encourages improved breathing, eases back tension, and improves balance in general.3. Looking down
+        When walking, many people have a tendency to stare down at their feet or mobile devices, which can strain your neck and back and cause you to become less aware of your surroundings.4. Inadequate arm swing
+        A coordinated arm swing is part of good walking form. You should move your arms against your legs. This coordinated arm swing improves your walking efficiency while also assisting you in keeping your balance and rhythm.5. Inadequate water intake
+        Even while performing a basic exercise like walking, being hydrated is important. If you get dehydrated, you can end up with weariness and cramping in the muscles. Carry a water bottle with you and sip from it frequently to maintain proper hydration.`,
+        user: 'Natalia Ningthoujam'
+    },
+    {
+        id: 50,
+        title: "Light exercises you can do to control high blood pressure",
+        cat: "FitnessArticle",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://images.healthshots.com/healthshots/en/uploads/2023/10/12170026/New-Project-45-770x436.jpg",
+        desc: `Exercising with high blood pressure is often considered unsafe. It is, however, a myth. Even if you have high blood pressure, it is usually safe to exercise, but you should avoid strenuous exercise. Here are 6 light exercises for high blood pressure patients.According to the World Health Organization (WHO), hypertension, or high blood pressure (BP), affects an estimated 1.28 billion adults aged 30-79 years globally. Following a poor diet with excessive salt consumption, using alcohol and tobacco, being obese and overweight, and a lack of physical activity are all risk factors for high blood pressure. While medicine given by a healthcare practitioner is essential for hypertension management, incorporating regular exercise into your daily routine is the most effective way to deal with it. But do you believe exercise is unsafe for those with hypertension? Don’t believe this myth. Exercise is actually highly beneficial for your heart health. Try these light exercises for high blood pressure.`,
+        user: 'Natalia Ningthoujam'
+    },
+    {
+        id: 51,
+        title: "5 best post workout protein powders for muscle recovery",
+        cat: "FitnessArticle",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://images.healthshots.com/healthshots/en/uploads/2023/10/12220339/protein-powder-1-770x436.jpg",
+        desc: `
+        1. MuscleBlaze Biozyme Iso-Zero
+        The first clinically tested whey protein in India, MuscleBlaze Biozyme Iso-Zero is low-carb and the highest-quality and claims to contain 50 percent higher protein absorption than other whey proteins.Home Fitness Staying Fit 5 best post workout protein powders for muscle recovery
+        STAYING FIT
+        1. MuscleBlaze Biozyme Iso-Zero
+        The first clinically tested whey protein in India, MuscleBlaze Biozyme Iso-Zero is low-carb and the highest-quality and claims to contain 50 percent higher protein absorption than other whey proteins. This low-carb formula comes in a delectable Ice Cream Chocolate flavor that offers not just a delicious treat but a potent source of muscle-nourishing protein. Patented in the USA, it ensures premium quality with 27g of pure isolate whey per scoop.
+        MuscleBlaze Biozyme Iso-Zero, Low Carb, 100% Pure Whey Protein Isolate with USA Patent-Published |Labdoor USA Certified, 27 g Pure Isolate Whey Per Scoop (Ice Cream Chocolate, 2 kg / 4.4 lb)
+        
+        2. Nutristar Ultra Premium Whey Protein Powder
+        Nutristar Ultra Premium Whey Protein Powder is a post-workout powerhouse offering 58 servings for sustained muscle building and recovery. It is a good option for vegetarians, this chocolate malt-flavoured formula not only supports strength but also boosts immunity. 3. Dymatize Nutrition Elite Whey Protein Powder
+        Dymatize Nutrition Elite Whey Protein Powder comes in a rich chocolate flavour. It could become your go-to solution for pre and post-workout nutrition. It’s a 5 lbs/2.26 kg supplement, which promises to deliver high-quality protein that will help in muscle recovery.`,
+        user: 'Natalia Ningthoujam'
+    },
+    {
+        id: 52,
+        title: "Meal Plans for People With Diabetes",
+        cat: "FitnessStories",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://www.starhealth.in/blog/wp-content/uploads/2022/05/DIABETES-DIET-1.jpg",
+        desc: `Crafting an appropriate meal plan for those with diabetes is fundamental to blood sugar management. It revolves around balanced portions of carbohydrates, proteins, and healthy fats. Complex carbs such as whole grains, veggies, and fruits in moderation are preferred due to their low glycemic index. Lean proteins from sources like poultry, fish, and legumes help stabilize blood sugar and aid in weight management. Healthy fats from nuts, seeds, and avocados are beneficial for heart health and blood sugar control. Incorporating fiber-rich foods, maintaining regular meal times, avoiding sugary items, and seeking guidance from healthcare professionals are vital strategies for a diabetic-friendly diet.Additionally, portion control is crucial to prevent blood sugar spikes, making careful monitoring of carbohydrate intake imperative. Eating smaller, balanced meals every few hours throughout the day helps maintain stable blood sugar levels and sustained energy. Avoiding processed foods, sugary drinks, and excessive salt intake is essential in managing diabetes effectively. Customizing the meal plan to suit an individual's specific needs, lifestyle, and medication requirements is vital for success. Engaging in regular physical activity and staying hydrated are complementary aspects that contribute to overall well-being and better blood sugar management. Collaborating with healthcare professionals ensures a holistic and personalized approach to diabetes management through diet.`,
+        user: 'Aniket Gholve'
+    },
+    {
+        id: 53,
+        title: "11 Signs You Were Born to Be an Athlete",
+        cat: "FitnessStories",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://www.aberdeensportsvillage.com/imager/images/2799/ASV-Athletics-Memberships-Gallery-3_eaf97de94269862e8bb6a5cf5fce55e2.webp",
+        desc: `<b>11 Telltale Signs That You're an Athlete</b>
+        <br/>
+        Here are the signs you should look for and behaviors to cultivate as you look to develop discipline and improve in your chosen physical activity.
+        <br/>
+        1. You find the right sport.
+        <br/>
+        2. You focus on getting better at your sport.
+        <br/>
+        3. You've always felt a need to move.
+        <br/>
+        4. You grew up in a sports-oriented environment.
+        <br/>
+        5. You had access to coaching.
+        <br/>
+        6. You have a genetic predisposition.
+        <br/>
+        7. You're a high achiever.
+        <br/>
+        8. You're a healthy eater.
+        <br/>
+        9. You like exercising.
+        <br/>
+        10. You thrive on competition.
+        <br/>
+        11. You want to be an athlete.`,
+        user: 'Aniket Gholve'
+    },
+    {
+        id: 54,
+        title: "Use these fitness tips to get the best out of your training",
+        cat: "FitnessStories",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://images.livemint.com/img/2023/10/14/1140x641/around_the_world_core_exercise_1697250481015_1697250490734.jpg",
+        desc: `Hello and welcome to another edition of the Lounge Fitness roundup. Here at Lounge we take your fitness training journey very seriously. As a result, we try to bring the best possible advice for training routines, workouts and nutrition: information that will be of actual use to you.And every weekend, we bring a roundup of the fitness stories published in the past week. That case, in case you missed it the first time around, you can always read them over the weekend. This week, we have a couple of excellent stories for you, so sit back and enjoy.`,
+        user: 'Aniket Gholve'
+    },
+    {
+        id: 55,
+        title: "World Food Day 2023: Date, history, significance",
+        cat: "Food",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?cs=srgb&dl=pexels-ella-olsson-1640774.jpg&fm=jpg",
+        desc: `World Food Day 2023: Access to proper food and nutrition is a basic human right. However, millions of people in the world do not have access to healthy food and water, World Food Day focuses on raising awareness on the importance and taking up initiatives to ensure that every person on this planet is given access to proper nutrition and proper food. Ensuring food safety and security and combating hunger are also the focus of celebrating World Food Day. Every year, World Food Day is observed with a lot of new initiatives and fresh ideas by organisations. As we gear up to celebrate the special day, here are a few things to know.World Food Day 2023: Access to proper food and nutrition is a basic human right. However, millions of people in the world do not have access to healthy food and water, World Food Day focuses on raising awareness on the importance and taking up initiatives to ensure that every person on this planet is given access to proper nutrition and proper food. Ensuring food safety and security and combating hunger are also the focus of celebrating World Food Day. Every year, World Food Day is observed with a lot of new initiatives and fresh ideas by organisations. As we gear up to celebrate the special day, here are a few things to know.`,
+        user: 'Aniket Gholve'
+    },
+    {
+        id: 57,
+        title: "Why cutting Pumpkin by women is forbidden?",
+        cat: "Food",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104426180.cms?width=680&height=512&imgsize=59630",
+        desc: `The belief that cutting pumpkin (or certain vegetables) is forbidden for women in some cultures or communities is often rooted in traditional or cultural practices rather than a universal or scientifically validated restriction. It's important to note that these beliefs and practices can vary widely across different regions and societies.
+        <br/>
+        In some cultures, specific prohibitions related to cutting or handling certain foods, including pumpkin, by women may be tied to cultural or religious customs. These practices may have historical origins that are deeply ingrained in societal norms and expectations. It's crucial to approach such practices with sensitivity and respect for cultural diversity.
+        <br/>
+        One potential historical explanation for such prohibitions could be related to traditional gender roles, where certain tasks were assigned based on gender. For example, cutting or handling certain foods might have been considered a task traditionally performed by men, and these roles may have been passed down through generations.
+        <br/>
+        Over time, societies evolve, and perspectives on gender roles and responsibilities change. Many cultures have challenged and revised traditional beliefs and practices to promote gender equality and inclusivity. It's essential to foster understanding, open dialogue, and education to question and address any restrictive beliefs or practices that perpetuate gender inequalities.
+        <br/>
+        In conclusion, the belief that cutting pumpkin is forbidden for women is rooted in cultural or traditional practices and may not have a universally agreed-upon rationale. It's important to approach these beliefs with an open mind, understanding their historical context and considering the evolving perspectives on gender roles and responsibilities in various societies.`,
+        user: 'TIMESOFINDIA.COM'
+    },
+    {
+        id: 56,
+        title: "5 Veggies that can naturally reduce sugar levels",
+        cat: "Food",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104404540.cms?width=680&height=512&imgsize=163676",
+        desc: `Several vegetables are known for their potential to help regulate blood sugar levels naturally. Incorporating these veggies into your diet can be a beneficial strategy for managing sugar levels. Here are five vegetables with properties that may aid in blood sugar control:
+        <br>
+        <b> Bitter Melon (Momordica charantia) </b>:
+        Bitter melon, commonly used in Asian and Indian cuisines, is well-known for its potential to lower blood sugar levels. It contains compounds that mimic the action of insulin, helping to improve glucose uptake and utilization in the body. Bitter melon can be consumed in various forms, such as stir-fries, soups, or as a juice.
+        <br>
+        <b>Spinach </b>:
+        Spinach is a nutrient-dense leafy green vegetable that is low in calories and carbohydrates, making it an excellent choice for managing blood sugar. It's rich in magnesium, which is linked to improved insulin sensitivity and glucose regulation. Incorporate spinach into salads, sautés, or smoothies to enjoy its health benefits.
+        <br>
+        <b> Kale </b>:
+        Kale is another leafy green vegetable packed with vitamins, minerals, and fiber. It has a low glycemic index and can help stabilize blood sugar levels. The fiber in kale slows down the digestion and absorption of carbohydrates, preventing rapid spikes in blood sugar. Add kale to salads, stir-fries, or use it in soups for a nutritious boost.
+        <br>
+        <b>Brussels Sprouts </b>:
+        Brussels sprouts are a cruciferous vegetable rich in fiber and antioxidants. The fiber content aids in slowing down digestion and helps regulate blood sugar levels. Additionally, Brussels sprouts are a good source of vitamin K, which is important for overall metabolic health. Roasting or steaming Brussels sprouts is a delicious way to include them in your meals.
+        <br>
+        <b>Broccoli </b>:
+        Broccoli is a versatile vegetable that offers numerous health benefits, including potential blood sugar control. It is low in calories and carbohydrates while being high in fiber, which supports blood sugar management. The antioxidants in broccoli may also aid in reducing oxidative stress often associated with diabetes. Incorporate broccoli into salads, stir-fries, or steamed side dishes.
+        <br>
+        Including a variety of these vegetables in your diet, along with a balanced meal plan and regular physical activity, can contribute to better blood sugar management. However, always consult with a healthcare professional for personalized advice and to tailor your dietary choices to your specific health needs.`,
+        user: 'TIMESOFINDIA.COM'
+    },
+    {
+        id: 58,
+        title: "5 lesser-known health benefits of Kalonji (Nigella Seeds)",
+        cat: "FoodLatest",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104421604.cms?width=680&height=512&imgsize=57674",
+        desc: `
+        <br/>
+        <b>1. Anti-Inflammatory Properties</b>:
+        Kalonji contains compounds like thymoquinone, which possess potent anti-inflammatory properties. These properties help in reducing inflammation in the body, which is often linked to chronic diseases like arthritis, asthma, and various digestive disorders. Consuming Kalonji regularly may contribute to managing inflammation and alleviating related symptoms.
+        <br/>
+        <b>2. Digestive Health</b>:
+        Kalonji has been historically used to support digestive health. Its seeds are known to possess digestive enzymes that aid in the proper digestion and absorption of nutrients. Additionally, Kalonji may help in relieving gastrointestinal issues such as bloating, gas, and indigestion, promoting a healthier digestive system.
+        <br/>
+        <b>3. Improved Respiratory Health</b>:
+        The compounds found in Kalonji are believed to have positive effects on respiratory health. Kalonji may help in managing conditions like asthma, bronchitis, and allergies due to its potential bronchodilator and anti-allergic properties. It could support easier breathing and overall respiratory well-being.
+        <br/>
+        <b>4. Blood Sugar Regulation</b>:
+        Research suggests that Kalonji may play a role in managing blood sugar levels. The active compounds in Kalonji, including thymoquinone and nigellone, may help regulate blood glucose levels and improve insulin sensitivity. This makes Kalonji a potentially valuable ingredient for individuals with diabetes or those aiming to manage their blood sugar levels.
+        <br/>
+        <b>5. Antimicrobial and Antifungal Properties</b>:
+        Kalonji is known for its antimicrobial and antifungal properties. Thymoquinone, an active ingredient in Kalonji, has been studied for its ability to inhibit the growth of various harmful microorganisms, including bacteria and fungi. Incorporating Kalonji into your diet may support a stronger immune system and help in preventing certain infections.`,
+        user: 'TIMESOFINDIA.COM'
+    },
+    {
+        id: 59,
+        title: "4 mouth-watering Korean dishes one needs to try",
+        cat: "FoodLatest",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104440294.cms?width=680&height=512&imgsize=147450",
+        desc: `Korean cuisine is a tantalizing fusion of flavors, textures, and aromas that will leave your taste buds craving for more. Here are eight mouth-watering Korean dishes that are a must-try for any food enthusiast:
+        <br/>
+        <b>Bibimbap (비빔밥)</b>:
+        Bibimbap is a vibrant and colorful dish featuring mixed vegetables, marinated meat (often beef), a fried egg, and gochujang (Korean chili paste) served over steamed rice. The combination of various ingredients creates a delightful harmony of flavors and textures.
+        <br/>
+        <b>Kimchi (김치) </b>:
+        Kimchi is a staple in Korean cuisine, made from fermented vegetables, primarily cabbage and radishes, combined with spicy red chili paste, garlic, and other seasonings. It's a tangy and spicy dish with a unique depth of flavor that complements any Korean meal.
+        <br/>
+        <b>Samgyeopsal (삼겹살) </b>:
+        Samgyeopsal is a popular Korean barbecue dish that involves grilling thick slices of pork belly at the table. The cooked meat is typically eaten wrapped in lettuce leaves with various condiments like garlic, ssamjang (a thick, spicy paste), and kimchi, offering a delightful burst of flavors.
+        <br/>
+        <b>Japchae (잡채) </b>:
+        Japchae is a savory and slightly sweet stir-fried dish made with glass noodles, vegetables, and sometimes beef or other proteins. The noodles are seasoned with soy sauce and sesame oil, resulting in a delightful medley of textures and flavors.`,
+        user: 'TIMESOFINDIA.COM'
+    },
+    {
+        id: 60,
+        title: "Is Miso Soup among the Japanese secrets of longevity?",
+        cat: "FoodLatest",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104386338.cms?width=680&height=512&imgsize=100892",
+        desc: `Miso soup, a traditional Japanese dish, is often cited as a potential contributor to the Japanese population's longevity and overall well-being. While it's not a singular "secret" to longevity, its consumption is believed to be part of a broader dietary and lifestyle approach that may contribute to a longer, healthier life.
+        <br>
+        Miso soup is typically made from a fermented paste of soybeans, rice or barley, salt, and koji (a type of fungus). The fermentation process results in the production of probiotics and bioactive compounds, which offer numerous health benefits. Fermented foods like miso are known to support gut health by promoting a healthy gut microbiome, aiding digestion, and enhancing nutrient absorption.
+        <br>
+        In Japan, miso soup is a staple in the daily diet, often enjoyed as a part of breakfast, lunch, or dinner. It's a low-calorie, nutrient-dense food rich in essential amino acids, vitamins, minerals, and antioxidants. The variety of ingredients that can be added to miso soup, such as tofu, seaweed, vegetables, and sometimes fish or shellfish, increases its nutritional diversity.
+        <br>
+        The traditional Japanese diet, of which miso soup is a significant component, is characterized by its emphasis on fresh, seasonal vegetables, fish, rice, and fermented foods. This diet is associated with lower rates of chronic diseases like heart disease, certain cancers, and diabetes. Additionally, the Japanese lifestyle often includes regular physical activity, strong social connections, and a cultural approach to moderation in eating.`,
+        user: 'TIMESOFINDIA.COM'
+    },
+    {
+        id: 61,
+        title: "Why eating food in Sukhasana posture is a healthy habit",
+        cat: "FoodArticle",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104402472.cms?width=680&height=512&imgsize=44126",
+        desc: `Sukhasana, also known as the "easy" or "comfortable" seated pose in yoga, is a cross-legged sitting posture where the legs are folded and the spine is in an upright, relaxed position. Eating food in Sukhasana posture is considered a healthy habit for several reasons related to digestion, mindfulness, and overall well-being.
+        <br/>
+        Firstly, Sukhasana encourages mindful eating. The seated and grounded posture promotes a calm and focused state of mind, allowing individuals to pay full attention to their meal. Mindful eating involves being present in the moment, savoring each bite, appreciating the flavors, textures, and aromas of the food. This mindful approach to eating can lead to better digestion and improved satisfaction from the meal.
+        <br/>
+        Secondly, Sukhasana aids in digestion. Sitting cross-legged on the floor while eating aligns the digestive tract in a natural and comfortable position. This posture allows the body to relax, and gravity assists in the smooth flow of food through the digestive system. Additionally, it may help prevent indigestion, bloating, and discomfort that can occur when eating in a hunched or slouched position.`,
+        user: 'TIMESOFINDIA.COM'
+    },
+    {
+        id: 62,
+        title: "World Egg Day: 3 foods that are high in protein",
+        cat: "FoodArticle",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104403526.cms?width=680&height=512&imgsize=38870",
+        desc: `In celebration of World Egg Day, let's explore three fantastic protein-rich foods that are great alternatives for those seeking a high-protein diet:
+        <br>
+        <b>1. Eggs</b>:
+        Eggs are a powerhouse of nutrition, providing high-quality protein and a wide range of essential vitamins and minerals. A single large egg contains about 6 grams of protein, making it a versatile and popular choice for meeting protein needs. Whether boiled, scrambled, poached, or used in baking and cooking, eggs are a convenient and delicious protein source.
+        <br/>
+        <b>2. Quinoa</b>:
+        Quinoa is a complete protein, meaning it contains all nine essential amino acids that the body cannot produce on its own. A cup of cooked quinoa contains approximately 8 grams of protein, making it an excellent plant-based protein option for vegetarians and vegans. Quinoa is versatile and can be used in salads, bowls, or as a side dish.
+        <br/>
+        <b>3. Greek Yogurt</b>:
+        Greek yogurt is a protein-packed dairy product that offers about 10-15 grams of protein per 100 grams, making it a protein-dense food. It is lower in lactose compared to regular yogurt due to the straining process, making it easier to digest for some individuals. Greek yogurt can be enjoyed on its own, mixed with fruits and nuts, or used in smoothies and various recipes.`,
+        user: 'TIMESOFINDIA.COM'
+    },
+    {
+        id: 63,
+        title: "These easy tips can help remove impurities from rice",
+        cat: "FoodArticle",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104395437.cms?width=680&height=512&imgsize=44752",
+        desc: `Removing impurities from rice is an important step to ensure you're cooking and consuming clean, high-quality grains. Here are some easy and effective tips to help remove impurities from rice:
+        <br/>
+        <b>1. Visual Inspection</b>:
+        Before washing the rice, visually inspect it to identify any foreign objects, debris, or discolored grains. Remove any visible impurities using your fingers or a fine-mesh sieve.
+        <br/>
+        <b>2. Rinsing Under Running Water</b>:
+        Place the rice in a fine-mesh strainer and rinse it thoroughly under cold running water. Gently rub the rice grains between your fingers to remove surface impurities. Continue rinsing until the water runs clear, indicating that most loose impurities have been washed away.
+        <br/>
+        <b>3. Soaking and Swirling</b>:
+        Soak the rice in water for about 20-30 minutes. Swirl the rice gently in the water to help dislodge any remaining impurities. After soaking, drain the water and rinse the rice once more under running water.
+        <br/>
+        <b>4. Double Rinsing</b>:
+        Repeat the rinsing process a second time after soaking to ensure that the rice is thoroughly clean and free from impurities. The second rinse helps to remove any additional debris or dust particles.`,
+        user: 'TIMESOFINDIA.COM'
+    },
+    {
+        id: 63,
+        title: "October Heatwave: Water-packed foods that will keep you hydrated",
+        cat: "FoodStories",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104409539.cms?width=680&height=512&imgsize=61814",
+        desc: `During an October heatwave or any warm season, staying hydrated is crucial for maintaining optimal health and well-being. Incorporating water-packed foods into your diet can be an effective way to supplement your water intake and keep you hydrated. Here are some refreshing and hydrating water-packed foods that can help you stay cool and hydrated during a heatwave:
+        <br/>
+        <b>1. Cucumber (96% Water)</b>:
+        Cucumbers are incredibly hydrating due to their high water content. They make a refreshing addition to salads, sandwiches, or can be enjoyed as a snack by themselves. The mild flavor of cucumbers complements various dishes and helps keep you cool.
+        <br/>
+        <b>2. Watermelon (92% Water)</b>:
+        Watermelon is a delicious and hydrating fruit that's perfect for hot weather. Its high water content makes it exceptionally refreshing, and it's an excellent choice for a hydrating snack or a base for smoothies and juices.
+        <br/>
+        <b>3. Strawberries (91% Water)</b>:
+        Strawberries are not only sweet and tasty but also packed with water, making them a hydrating fruit option. Enjoy them on their own, add them to yogurt or salads, or blend them into a refreshing smoothie.
+        <br/>
+        <b>4. Tomatoes (95% Water)</b>:
+        Tomatoes are not only versatile but also have a high water content, making them great for hydration. They can be used in salads, sandwiches, wraps, or blended into gazpacho for a cooling soup option.
+        <br/>
+        <b>5. Lettuce (95% Water)</b>:
+        Lettuce, particularly varieties like iceberg and romaine, has a high water content and is a staple in salads. Incorporate plenty of fresh, crisp lettuce in your salads to boost your hydration levels.`,
+        user: 'TIMESOFINDIA.COM'
+    },
+    {
+        id: 64,
+        title: "Efficient Ways to Store Lemons at Home for Freshness and Longevity",
+        cat: "FoodStories",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104352171.cms?width=680&height=512&imgsize=50430",
+        desc: `Lemon is one of the basic ingredients that we need in our house. From making Lemonade to increasing the taste of salads, to even the first detox drink of the day; there are so many uses of lemons that it stays there in our refrigerator always. It’s rich in vitamin C and antioxidants, which not only help in boosting the metabolism but improve immunity as well. Due to these reasons, we sometimes buy them in large quantities, and if not stored at right temperature, lemons can spoil very easily. They are known to be acidic in nature and thus, it becomes more important that lemons are stored at right temperature. If not, there are are high chances that lemons will get spoil in just 2-3 days.`,
+        user: 'TIMESOFINDIA.COM'
+    },
+    {
+        id: 65,
+        title: "Why Dal Chawal is the best meal for weight loss",
+        cat: "FoodStories",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104316238.cms?width=680&height=512&imgsize=64262",
+        desc: `The dal chawal (lentils and rice) combination is a popular and traditional staple in many South Asian cuisines. When considering its benefits for weight loss, several factors come into play, making it a favorable option for those aiming to manage their weight effectively.
+        <br>
+        Firstly, dal chawal is a balanced and wholesome meal that provides a good mix of carbohydrates, proteins, fiber, vitamins, and minerals. Lentils (dal) are rich in protein and fiber, which contribute to a feeling of fullness and satiety, helping to control appetite and prevent overeating. The protein-fiber combination also helps regulate blood sugar levels, aiding in a more consistent energy supply and reducing cravings for unhealthy snacks.
+        <br>
+        Furthermore, lentils are a low-calorie, nutrient-dense food. They provide essential nutrients such as iron, potassium, folate, and various B vitamins, promoting overall health while supporting weight loss goals. Additionally, lentils have a low glycemic index, which means they don't cause rapid spikes in blood sugar levels, helping to manage insulin levels and reduce fat storage.`,
+        user: 'TIMESOFINDIA.COM'
     },
 ]
 

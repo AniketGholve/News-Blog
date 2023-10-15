@@ -17,7 +17,7 @@ const Details = () => {
                                 <div className='w-80 m-auto d-flex g-10 align-center d-block'>
                                     <img src={val.url} alt="" width={'50%'} height={'50%'} className='detailsImage' />
                                     <div className='desc d-flex align-center'>
-                                        <p className='text-justify'>{val.desc}</p>
+                                        <p className='text-justify' dangerouslySetInnerHTML={{ __html: val.desc }}></p>
                                     </div>
                                 </div>
                             </div>
