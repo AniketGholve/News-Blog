@@ -1,0 +1,20 @@
+#root {
+  margin: 0 auto;
+}
+.header{
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 1em;
+}
+.header span{
+  font-size: 30px;
+  transform: matrix(0, -1, 1, 0, 0, 0);
+  font-weight: 500;
+}
+.w-80{
+  width: 80%;
+}
+
+

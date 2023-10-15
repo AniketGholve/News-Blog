@@ -1,0 +1,299 @@
+.nav {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 80%;
+    margin: 2em auto;
+}
+
+.nav li {
+    cursor: pointer;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.nav li:hover {
+    border-bottom: 2px solid #F08080;
+}
+
+.gallary {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.card0 {
+    grid-row: 1/3;
+    grid-column: 1/3;
+}
+
+.latest {
+    display: inline-block;
+    border-bottom: 3px solid #F08080;
+}
+
+.latestNews {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.newsbox {
+    background-color: rgb(226, 226, 226);
+}
+
+.px-3 {
+    padding: 0 3%;
+}
+
+img {
+    border-radius: 5px;
+    opacity: 1;
+    filter: grayscale(0.1);
+}
+
+img:hover {
+    opacity: 0.8;
+    transition-duration: 0.5s;
+}
+
+.color-gray {
+    color: gray;
+}
+
+.date {
+    color: black;
+    font-weight: bold;
+}
+
+.latestArticle {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
+}
+
+.article {
+    grid-column: 1/7;
+    display: flex;
+    width: 90%;
+    border-top: 2px solid rgb(196, 196, 196);
+    padding: 2%;
+}
+
+.advertistement {
+    grid-column: 7/9;
+    border: 2px solid black;
+    grid-row: 1/3;
+    display: grid;
+    place-content: center;
+}
+
+.mt-5 {
+    margin-top: 3%;
+}
+
+.latestStory {
+    border-bottom: 2px solid rgb(196, 196, 196);
+    border-top: 2px solid rgb(196, 196, 196);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.p-5 {
+    padding: 10%;
+}
+
+.gallaryTitle {
+    position: absolute;
+    bottom: 0%;
+    left: 10%;
+}
+
+.gallaryTitle h1 a {
+    color: black;
+}
+
+.card {
+    position: relative;
+}
+
+.details {
+    display: grid;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.userDetails {
+    display: flex;
+    gap: 20px;
+}
+
+.recommend {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 5em;
+}
+
+.btn-back {
+    border: none;
+    padding: 20px 50px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: rgb(242, 242, 159);
+    border-radius: 10px;
+}
+
+.btn-back:hover {
+    background-color: rgb(214, 214, 133);
+    transition-duration: 1s;
+}
+
+.article a img {
+    max-width: 500px;
+}
+
+.g-10 {
+    gap: 10%;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.desc {
+    font-size: 18px;
+}
+
+.hero-slider-wrapper {
+    height: 50vh !important;
+}
+
+.sliderView {
+    display: none;
+}
+.text-justify{
+    text-align: justify;
+}
+.active{
+    border-bottom: 3px solid #F08080;
+}
+
+@media screen and (max-width:600px) {
+    .gallary {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .latestNews {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .latestStory {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .latestArticle {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .advertistement {
+        grid-column: 1/2;
+    }
+
+    .article {
+        grid-column: 1/2;
+        flex-direction: column;
+    }
+
+    .card0 {
+        grid-column: 1/2;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .sliderView {
+        display: block;
+    }
+
+    .gallaryView {
+        display: none;
+    }
+
+    .recommend {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .newsbox {
+        height: max-content;
+    }
+
+    .detailsImage {
+        height: 100%;
+        width: 100%;
+    }
+    .d-block{
+        display: block;
+    }
+    img{
+        object-fit: fill !important;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:1025px) {
+    .sliderView {
+        display: block !important;
+    }
+
+    .gallaryView {
+        display: none;
+    }
+
+    .advertistement {
+        grid-column: 1/9;
+    }
+
+    .article {
+        grid-column: 1/9;
+    }
+    img{
+        object-fit: fill !important;
+        width: 100%;
+    }
+    .article a img {
+        width: 200px;
+    }
+    .d-block{
+        display: block;
+    }
+}
