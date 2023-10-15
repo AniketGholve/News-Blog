@@ -267,7 +267,142 @@ let data = [
         desc: `Natasha Lyonne may play an accidental gumshoe in Poker Face, but offscreen, she’s yet to solve the mystery of some missing Old Navy pants. The Emmy-nominated actress and producer is ringing in the holiday season early with a new campaign for the clothier, which will premiere in theaters today at Taylor Swift: Eras Tour concert film screenings before running on TV and online.
         “There is a real mystery happening on the Old Navy set, which is the case of the disappearing denim jeans,” Lyonne tells The Hollywood Reporter. “I wore them with that overcoat and the beanie. Those jeans are so cute and I’m obsessed with them. And when we wrapped, we went to find them to take home. And it’s been the real magical mystery tour of the holiday campaign shoot. We were looking in every room … we’re hoping to crack it by the Emmys, Cristina [Ehrlich] and I. Then if not, we’re gonna send a really, excited request to Old Navy for a new pair of jeans.”`
     },
-
+    {
+        id: 31,
+        title: "Apple said to announce new iPads on October 17, here are the details",
+        cat: "Technology",
+        date: "Oct 15, 2023 17:08 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/ipad-152045990-16x9.jpg?VersionId=8mhQMsckJBOW1klJISUsZwPrCn90.6oS&size=690:388",
+        desc: `Apple just recently wrapped its major iPhone 15 event and it now seems that the company is planning to announce new products next week. A report from 9to5Mac claims that the company will unveil its latest set of iPad lineup, which is slated to take place on October 17. The cited source says the news has been confirmed by multiple sources. Here are the details.If the leak is to be believed, the forthcoming announcement is set to focus primarily on the iPad Air, iPad mini, and the base model iPad. Apple might just make cosmetic changes to the design and the new iPads are said to get upgrades in terms of hardware. So, one can expect to get performance improvements.
+        The existing iPad Air, which was launched nearly three years ago, is currently powered by the formidable M1 chip. Apple's next move is expected to involve upgrading this model to the M2 chip, promising a notable boost in performance and efficiency.
+        The iPad mini, on the other hand, is set to receive an upgrade to the A16 Bionic chip, a subtle yet significant enhancement over its current A15 Bionic chip. This upgrade aims to address the "jelly scrolling" issue that has plagued some users of the current iPad mini, promising a smoother and more responsive scrolling experience.`,
+        user: 'Ankita Garg'
+    },
+    {
+        id: 32,
+        title: "Apple CEO Tim Cook was asked if a new iPhone is necessary every year, here is what he said",
+        cat: "TechnologyStories",
+        date: "Oct 14, 2023 12:45 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/apple-ceo-tim-cook-071706-16x9.jpg?VersionId=fxmJnf3yTVpXkM1n1.VxZqWD1UcQM0Fp&size=690:388",
+        desc: `The iPhone is one of the most sought-after smartphones in the world and each year, when a new variant is launched, people are eager to get their hands on the device. This year, the iPhone 15 launched on September 12, during Apple's Wonderlust event. The phone went on sale a couple of days later, on September 22 and people were seen standing in queues outside the newly-opened Apple stores in Delhi.And that is the sight almost every year, when Apple launches its new phone in the market. Apple CEO Tim Cook was recently asked if it was necessary for the company to launch a new iPhone every year. Read on to know what he said.
+        Tim Cook on why Apple launches new iPhone every year
+        While it is true that iPhone lovers stand outside stores, waiting for the new phone to launch, some people wonder why the company launches a new phone every year. Apple CEO Tim Cook, in an interview with Brut, was asked the reason behind this. Responding to the question, he said, “I think having an iPhone every year for those people that want it is a great thing."
+        He also talked about Apple's policy of allowing users to trade their old iPhones for new ones. Explaining what happens to these old phones, Cook added, "We then resell those phones if they are still functional." Talking about the phones that are non-functional, Cook revealed that Apple disassembles them and uses its materials to make a new iPhone.`,
+        user: 'Divyanshi Sharma'
+    },
+    {
+        id: 33,
+        title: "Ex-Google employee says he wanted to work at the company till retirement, loses job after 2.5 years of service",
+        cat: "Technology",
+        date: "Oct 9, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202310/google-employee-laid-off-291315960-16x9_0.jpg?VersionId=3QPNueQcu1McKFy3.ylBW3mxI3IhUok.&size=690:388",
+        desc: `Alphabet, Google's parent company, announced laying off hundreds of people from its recruiting team last month. Even though the exact number of impacted employees hasn't yet been known, many people came forward to share their side of the story. While announcing the layoffs, Alphabet had said that the decision to let go of "a few hundred" employees was not a "part of a wide-scale layoff". The company had also said that it will "retain a significant majority of the team for hiring critical roles". In addition to this, Alphabet announced helping the impacted employees to look for other roles from "within the company and elsewhere".Sharing about their experience of working at Google, some former employees wrote on LinkedIn that they will be missing their colleagues and workplace. Others, meanwhile, were grateful to have had the opportunity of working at the tech giant. One such employee wrote on LinkedIn that he wanted to work at the company till his retirement.
+        Google employee shares note on losing job
+        Beginning his post, the man wrote that he thought that he would be working at Google till he retires. However, he was affected by the recent mass layoffs carried out at the company. The man also mentions how the layoffs were not related to performance and that he got the news right before heading into the second half of his paternity leave.
+        Ending his note on a rather positive note, the ex-Google employee wrote that he would come back and work for the company '"in a fraction of a heartbeat" and that it is a "magical place with remarkable people."`,
+        user: 'Divyanshi Sharma'
+    },
+    {
+        id: 34,
+        title: "WhatsApp will end support for select Android phones after October, check if your phone on the list",
+        cat: "TechnologyLatest",
+        date: "Oct 9, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/representational-image-270712520-16x9.jpg?VersionId=Xv0hVdkrkEpv5mNUvLceovj.ZgKaZcHS&size=690:388",
+        desc: `WhatsApp will stop working on certain older Android phones and iPhones from October 24, 2023. According to the platform, it wants to focus on developing new features for the users on more recent versions of the operating system, as well as taking advantage of the latest security features and technological advances. So in order to focus on new, it is ending support for some of the old smartphone models running on Android OS version 4.1 and older" To choose what to stop supporting, every year we, like other technology companies, look at which devices and software are the oldest and have the fewest number of people still using them. These devices also might not have the latest security updates, or might lack the functionality required to run WhatsApp," reads the official note on WhatsApp faq.`,
+        user: 'Divya Bhati'
+    },
+    {
+        id: 35,
+        title: "Engineering graduate tries getting part-time job at IT firm, loses over Rs 12 lakh in online scam",
+        cat: "TechnologyLatest",
+        date: "Oct 1, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/scam-271627982-16x9.jpg?VersionId=9WK0mNDwP_zs.qiCKOeqmLjSB46.PYsJ&size=690:388",
+        desc: `Online scams are on the rise in India. Despite warnings, many people are still falling victim to these scams, losing their hard-earned money. Scammers often approach people on messaging apps like WhatsApp and Telegram, offering part-time jobs that promise easy money. However, if an offer sounds too good to be true, it probably is. In a recent case, a woman from Visakhapatnam lost more than Rs 12 lakh when she tried getting a part-time job. The woman, an engineering graduate, was promised a job at an IT firm but it all turned out to be a ruse. Read on to know what exactly happened.Woman loses Rs 12 lakh in fake job offer scam
+        According to a TOI report, the victim, Malla Jyothirmayi got Rs 15 lakh deposited in her bank account by her father in September. The money was transferred via WhatsApp. When she was approached for a part-time job offer at an IT firm, the young IT graduate was keen on joining. She was asked to pay a registration fee of Rs 5,000 to initiate the hiring formalities. She then received messages from the fraudsters asking for more money for the examination of her bank account.
+        After that, she was assured by the fraudsters that she would get Rs 1.4 lakh within three months if she paid 1 lakh as a caution deposit. Jyothirmayi fell into their trap and transferred a total of Rs 12.84 lakh to the fraudsters within hours. When the scammers asked her to transfer another Rs 4 lakh, the woman suspected that something was amiss. After she told her brother about the incident, he asked her not to send any more money to the fraudsters and a complaint was lodged at Anakapalli town police station.`,
+        user: 'Divyanshi Sharma'
+    },
+    {
+        id: 36,
+        title: "Zomato, McDonald's asked to pay Rs 1 lakh to customer for delivering wrong order",
+        cat: "TechnologyLatest",
+        date: "Oct 13, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/zomato-121257548-16x9.png?VersionId=WeOvpSTWMpPb5yjZqpMK7pSa3h6asMA_&size=690:388",
+        desc: `In a recent legal decision, Zomato and McDonald's have been collectively fined Rs 1 lakh by the District Consumer Dispute Redressal Forum in Jodhpur. The penalty was imposed due to their erroneous delivery of a non-vegetarian order to a customer who had specifically requested vegetarian food. This incident underscores the critical need for precision in the realm of food delivery and sparks questions about the accountability of food delivery platforms in guaranteeing order accuracy.
+        The episode in question transpired when a customer placed an order from McDonald's, with Zomato overseeing the delivery process. Upon receipt of the order, the customer was taken aback to find that non-vegetarian items had been mistakenly substituted for the vegetarian dishes they had initially ordered. The customer's dissatisfaction led them to file a formal complaint with the District Commission.`,
+        user: 'Ankita Garg'
+    },
+    {
+        id: 37,
+        title: "Google makes passkeys default sign-in option in all personal Google accounts, everything you need to know",
+        cat: "TechnologyArticle",
+        date: "Oct 13, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/passkeys-131228549-16x9.jpg?VersionId=GSlQ5gRqnTaAqKeCf_u5dZp46hx0Jx9V&size=690:388",
+        desc: `Google has announced that passkeys are now the default sign-in option for authentication for all personal Google accounts across its services and platforms. This means that once you set up a passkey linked to a device, users can sign into your Google accounts without entering a password or using 2-Step Verification (2SV) when logging in.
+        According to Google, passkeys are a simple and secure replacement for traditional passwords. The California-based tech giant first introduced passkeys in May 2022, and then integrated support for them into Android OS and Chrome in October 2022. In May 2023, Google expanded passkey support to personal Google accounts. Notably, Passkeys are compatible with all major web browsers and platforms, including Windows, macOS, iOS, and ChromeOS.`,
+        user: 'Divya Bhati'
+    },
+    {
+        id: 38,
+        title: "Meta engineer earning Rs 3 crore quits his job, says he started getting panic attacks at work",
+        cat: "TechnologyArticle",
+        date: "Oct 13, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/meta-284823286-16x9.jpg?VersionId=q7A40G5Npz9pHu3GggEPSdN8bq.pX4Lp&size=690:388",
+        desc: `Facebook-parent Meta is known for offering high-paying jobs to its engineers. In August this year, data from Blind showed that engineers working at Google and Meta were earning more than those working at other tech giants. However, for some people, getting a huge paycheck is not enough.
+        An ex-Meta employee, who was earning around Rs 3 crore per year by working at the company, revealed that he quit his high-paying job as it wasn’t right for him. He added that he used to get panic attacks while working at Meta and was never able to completely disconnect from work even after his working hours were over.Named Eric Yu, the 28-year-old software engineer told Business Insider that his typical work day began at 7:00 am and ended at 5:00 pm. However, even after that, he wouldn’t be able to disconnect from work. He also said that he would work on weekends at times and would still be harshly criticised for his work. Eventually, he started getting panic attacks in office and the situation worsened over time.`,
+        user: 'Divyanshi Sharma'
+    },
+    {
+        id: 39,
+        title: "Samsung Galaxy A05s launching in India on October 18, price likely to be under Rs 15,000",
+        cat: "TechnologyArticle",
+        date: "Oct 13, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/samsung-galaxy-a05s-13055619-16x9.jpg?VersionId=RUzfOIPeK1xXKlWM3OAznCIdyHhLtMat&size=690:388",
+        desc: `Samsung Galaxy A05s is all set to launch in India on October 18. The company has confirmed the launch of the new budget Samsung phone, which is expected to be priced under Rs 15,000 segment in India. Ahead of the event, Samsung has also revealed a few key features of the new Samsung Galaxy A05s smartphone. Here are the details.Samsung Galaxy A05s: Expected price in India
+        The anticipated cost of this 5G smartphone is likely to come in below that of the Samsung Galaxy M15. If Samsung decides to launch the Galaxy A05s at a higher price point than the Galaxy M15, potential customers might opt for alternative choices. The Galaxy M15 made its debut with an initial price of Rs 13,490. It's uncertain how Samsung will strategically price its latest budget smartphone to prevent direct comparisons with other models in the same category. But, since the device is launching during the festive season, it is expected to cost less after the launch. The details for the same will be revealed next week.`,
+        user: 'Ankita Garg'
+    },
+    {
+        id: 40,
+        title: "Amazon, Flipkart, similar platforms may be in trouble as Firefox plans to launch built-in fake reviews detector",
+        cat: "Technology",
+        date: "Oct 13, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/firefox-132455317-16x9.jpg?VersionId=MjltauLmDDgKamO4SH0CZ9SoEXpBJW2f&size=690:388",
+        desc: `Samsung Galaxy A05s is all set to launch in India on October 18. The company has confirmed the launch of the new budget Samsung phone, which is expected to be priced under Rs 15,000 segment in India. Ahead of the event, Samsung has also revealed a few key features of the new Samsung Galaxy A05s smartphone. Here are the details.Samsung Galaxy A05s: Expected price in India
+        The anticipated cost of this 5G smartphone is likely to come in below that of the Samsung Galaxy M15. If Samsung decides to launch the Galaxy A05s at a higher price point than the Galaxy M15, potential customers might opt for alternative choices. The Galaxy M15 made its debut with an initial price of Rs 13,490. It's uncertain how Samsung will strategically price its latest budget smartphone to prevent direct comparisons with other models in the same category. But, since the device is launching during the festive season, it is expected to cost less after the launch. The details for the same will be revealed next week.`,
+        user: 'Ankita Garg'
+    },
+    {
+        id: 41,
+        title: "Qualcomm announces job cuts, set to layoff 1,258 employees: Here are the details",
+        cat: "TechnologyStories",
+        date: "Oct 13, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/qualcommjpg-011110-16x9_0.jpg?VersionId=U4ktR4UAgOjHAyNJZBpatfqnyDUjqEiu&size=690:388",
+        desc: `Qualcomm is all set to cut hundreds of jobs. The company has confirmed that the layoffs will take place in December this year. In its recent filings with the California Employment Development Department, Qualcomm asserted that around 1,064 San Diego-based employees and 194 Santa Clara-based employees will be affected by the layoffs. This is about 2.5 percent of their total employee count.A report from CNBC revealed that Qualcomm will start layoffs on December 13 in both locations. Crucially, Qualcomm emphasized that there would be no facility closures at either of these locations, reassuring the local communities.
+        In response to inquiries about this move, Qualcomm referred to its last quarterly earnings report, where it had foreseen workforce reductions and restructuring charges. The company stated, "Given the continued uncertainty in the macroeconomic and demand environment, we expect to take additional restructuring actions to enable continued investments in key growth and diversification opportunities."`,
+        user: 'Ankita Garg'
+    },
+    {
+        id: 42,
+        title: "Threads will allow users to edit posts and share voice notes, says Meta CEO Mark Zuckerberg",
+        cat: "TechnologyStories",
+        date: "Oct 13, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/threads-104440-16x9.jpg?VersionId=tezN9.kMDWwHnTFkJH619D47qeCj4gFL&size=690:388",
+        desc: `Meta's text-based social media platform, Threads, was high on the buzzword before its launch in July this year. Users were quite excited for Meta's new platform and it launched at a time when Twitter (now called X) had started charging people for features that were earlier available for free. Hence, Threads was perceived to be Meta's Twitter alternative. The app got millions of downloads within 5 days of its launch and allowed people to seamlessly create a Threads account if they were already using Instagram. It was also reported that Threads might replace X altogether. However, Instagram CEO Adam Mosseri had said in an interaction that the idea behind Threads was not to replace Twitter, but to give users a 'less angry' platform.However now, Threads doesn't appear to be as popular as it had been at the time of its launch. And Meta is seemingly working towards a fix by launching new features for its micro-blogging platform. Yet another feature, similar to Elon Musk's X, will be coming to Threads shortly. And it will be super useful for people.`,
+        user: 'Divyanshi Sharma'
+    },
+    {
+        id: 43,
+        title: "Pre-workout snacks are important. These are some healthy ones you should try",
+        cat: "Fitness",
+        date: "Oct 13, 2023 17:07 IST",
+        url: "https://www.lyu.ac.in/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fstudent-life.eaf01c53.png&w=1920&q=75",
+        desc: `You know that wild hunger that threatens to have you falling flat on your face while you’re working out? That is precisely the reason why pre-workout snacks are important.
+        Ekta Singhwal, dietician at Ujala Cygnus Group of Hospitals, explained that these snacks play a crucial role in enhancing performance and promoting overall well-being while you’re exercising.
+        Your body needs a readily available source of energy when you work out and healthy snacking provides this energy in the form of carbohydrates. For those who don’t know, carbohydrates are the body’s preferred fuel source during moderate to high-intensity activities, like a workout.
+        The dizziness you feel during your workout sometimes happens when your blood sugar levels drop too low. Pre-workout snacks can also help stabilise blood sugar levels, important for maintaining energy and preventing fatigue during your workout.`,
+        user: 'Lifestyle Desk'
+    },
 ]
 
 export default data;
