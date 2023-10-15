@@ -1,53 +1,144 @@
 let data = [
     {
         id: 1,
-        title: "The Sound Cloud You Loved Is Doomed",
+        title: "Eddie Murphy’s Christmas Cheer Turns Into Comedic Terror When His Holiday Wishes Are Granted in ‘Candy Cane Lane’ Trailer",
         cat: "Travel",
-        date: "August 21 2017",
-        user: "Shubham Gite",
-        url: "https://cdn.pixabay.com/photo/2014/12/17/21/30/fantasy-571940_1280.jpg",
-        desc: '"The SoundCloud You Loved Is Doomed" encapsulates a growing worry among users and the artistic community that the essence of what made SoundCloud unique and beloved is at risk. Historically cherished for its user-centric model, which empowered artists to share and connect with a global audience in an accessible and collaborative environment, recent developments seem to signify a departure from these fundamental principles.One of the primary concerns centers around a potential shift towards a more commercialized approach. This shift could manifest through increased emphasis on advertisements, premium subscriptions, or alterations in the revenue-sharing model, which may compromise the platforms original ethos of providing a free and open space for both artists and listeners.Furthermore, changes in copyright policies and licensing agreements have emerged as a significant worry. Such alterations might result in restrictions on the availability of certain tracks or modifications to how music is shared and discovered, impacting the diversity and breadth of content that initially made SoundCloud appealing.Alterations in the platforms algorithms for music discovery and recommendations are also feared. These changes might inadvertently favor mainstream or established artists over emerging and independent ones, hindering the discovery of new and unique sounds—a key feature that endeared SoundCloud to its users.'
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/CCLN_2023_UT_230223_BARCLA_07612R_V2_C3.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `Eddie Murphy is facing off with angry geese — enchanted ceramic Christmas villagers and one havoc — wreaking elf in the first trailer for Candy Cane Lane.
+        Prime Video released the teaser for Eddie Murphy’s first holiday film on Thursday — offering a fuller look at the adventure comedy where Christmas wishes go awry. The film reunites the actor and comedian with director Reginald Hudlin and producer Brian Grazer for the first time since 1992’s Boomerang. 
+        Murphy stars as Chris Carver, a man on a mission to win his annual Christmas home decoration contest — a desire not shared by his rather exasperated family. But when he and his youngest daughter stumble upon a Christmas store, his dream of “the best Christmas ever” — winning the contest — becomes a nightmare after an elf named Pepper (Jillian Bell) grants his wish, literally.`
     },
     {
         id: 2,
-        title: "‘Starve Acre’ Director Daniel Kokotajlo on Why Folk Horror Is Having a Cinematic Moment",
+        title: "Pre-workout snacks are important. These are some healthy ones you should try",
         cat: "Travel",
-        date: "August 21 2017",
-        user: "Aniket Gholve",
-        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Starve-Acre-Daniel-Kokotajlo.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
-        desc: "For his 2017 feature debut, Brit director Daniel Kokotajlo delved into his own personal experiences growing up as a member of the Jehovah’s Witnesses. Apostasy, a remarkable drama that opened a window into the strict Christian sect he had long since turned his back on, was celebrated as one of the most daring and powerful U.K. films of the year, landing a BAFTA nomination and five British Independent Film Award nominations.        For his follow up, Kokotajlo has headed into a distinctly more creepy and chilling direction. Starve Acre, which has its world premiere at the BFI London Film Festival on Oct. 12, is a gothic, folksy horror led by Brit stars Morfydd Clark, already a genre hero thanks to her breakout Saint Maud, and, in role like little he’s done before, Matt Smith. Based on the book by Andrew Michael Hurley and largely set in a remote farmhouse in 1970s England, the story follows a couple whose otherwise idyllic rural life is thrown into turmoil when their 5-year-old son starts acting out of character, a situation that brings the fore a folkloric myth concerning the land around their home, into which they unwittingly welcome sinister, supernatural forces."
+        date: "Oct 13, 2023 17:07 IST",
+        url: "https://images.everydayhealth.com/images/healthy-living/fitness/all-about-yoga-mega-722x406.jpg",
+        desc: `You know that wild hunger that threatens to have you falling flat on your face while you’re working out? That is precisely the reason why pre-workout snacks are important.
+        Ekta Singhwal, dietician at Ujala Cygnus Group of Hospitals, explained that these snacks play a crucial role in enhancing performance and promoting overall well-being while you’re exercising.
+        Your body needs a readily available source of energy when you work out and healthy snacking provides this energy in the form of carbohydrates. For those who don’t know, carbohydrates are the body’s preferred fuel source during moderate to high-intensity activities, like a workout.
+        The dizziness you feel during your workout sometimes happens when your blood sugar levels drop too low. Pre-workout snacks can also help stabilise blood sugar levels, important for maintaining energy and preventing fatigue during your workout.`,
+        user: 'Lifestyle Desk'
     },
     {
         id: 3,
-        title: "The Sound Cloud You Loved Is Doomed",
+        title: "Kuch Kuch Hota Hai’s 25th anniversary special screening tickets, priced at Rs. 25, SOLD OUT in less than 25 minutes",
         cat: "Travel",
-        date: "August 21 2017",
-        url: "https://cdn.pixabay.com/photo/2017/02/08/17/24/fantasy-2049567_1280.jpg",
-        desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias dicta earum natus similique enim mollitia iste voluptas dolor, delectus ipsa sunt eos nostrum ipsum quibusdam quam quis soluta commodi vero!"
+        date: "August 21 2023",
+        url: "https://stat5.bollywoodhungama.in/wp-content/uploads/2023/10/BREAKING-Kuch-Kuch-Hota-Hais-25th-anniversary-special-screening-tickets-priced-at-Rs.-25-SOLD-OUT-in-less-than-25-minutes.jpg",
+        desc: `One of the greatest films of Indian cinema, Kuch Kuch Hota Hai, was released on October 16, 1998. Hence, this year, the love saga will complete 25 years. As expected, the excitement is palpable and Dharma Productions, the producers, have decided to celebrate the anniversary in a grand fashion. A few hours ago, the social media handle of the production house, announced that a special screening of the film will be held on Sunday, October 15. The booking was soon opened and in no time, the shows got sold out.
+        An exhibition source told Bollywood Hungama, “The low price point must have played a part. It’s unbelievable for moviegoers that they will get to see the film in a swanky multiplex for just Rs. 25. Moreover, the film has a charm and is timeless. Many moviegoers were too young or were not even born when it was released in 1998. Hence, they either don’t vividly remember or have never seen the film on the big screen. And of course, Shah Rukh Khan’s presence in the lead along with Kajol and Rani Mukerji and association of Karan Johar as the director, all of whom are going strong even today, also must have been another reason why the shows got house full immediately.”
+        The source continued, “Nevertheless, no one expected such reception to the re-release of Kuch Kuch Hota Hai. There was no prior intimation. The booking began all of a sudden and yet, such was the response.”
+        As per another source, one more show of Kuch Kuch Hota Hai will be added in the same theatre, that is, PVR Icon Versova. It now remains to be seen if more shows of Kuch Kuch Hota Hai are added not just in other PVR theatres Mumbai but also in other cities. `
     },
     {
         id: 4,
-        title: "Joshua Tree Overnight Advanture",
+        title: "Zomato, McDonald's asked to pay Rs 1 lakh to customer for delivering wrong order",
         cat: "Latest",
-        url: "https://cdn.pixabay.com/photo/2017/09/15/02/22/fantasy-2750995_1280.jpg",
-        date: "August 21 2017",
-        desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias dicta earum natus similique enim mollitia iste voluptas dolor, delectus ipsa sunt eos nostrum ipsum quibusdam quam quis soluta commodi vero!"
+        date: "Oct 13, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/zomato-121257548-16x9.png?VersionId=WeOvpSTWMpPb5yjZqpMK7pSa3h6asMA_&size=690:388",
+        desc: `In a recent legal decision, Zomato and McDonald's have been collectively fined Rs 1 lakh by the District Consumer Dispute Redressal Forum in Jodhpur. The penalty was imposed due to their erroneous delivery of a non-vegetarian order to a customer who had specifically requested vegetarian food. This incident underscores the critical need for precision in the realm of food delivery and sparks questions about the accountability of food delivery platforms in guaranteeing order accuracy.
+        The episode in question transpired when a customer placed an order from McDonald's, with Zomato overseeing the delivery process. Upon receipt of the order, the customer was taken aback to find that non-vegetarian items had been mistakenly substituted for the vegetarian dishes they had initially ordered. The customer's dissatisfaction led them to file a formal complaint with the District Commission.`,
+        user: 'Ankita Garg'
     },
     {
         id: 5,
-        title: "Joshua Tree Overnight Advanture",
+        title: "‘Scott Pilgrim Takes Off’ Trailer Teases a Colorful Anime Take on the Battle of the Exes Tale",
         cat: "Latest",
-        date: "August 21 2017",
-        url: "https://cdn.pixabay.com/photo/2016/03/28/09/36/music-1285165_1280.jpg",
-        desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias dicta earum natus similique enim mollitia iste voluptas dolor, delectus ipsa sunt eos nostrum ipsum quibusdam quam quis soluta commodi vero!"
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Scott_Pilgrim_Takes_Off_u_S1_E1_00_22_07_11-H-2023.jpg?w=2000&h=1126&crop=1&resize=1000%2C564",
+        desc: `The two-minute teaser for the show, created for television by executive producers and co-showrunners Bryan Lee O’Malley and BenDavid Grabinski, debuted during New York Comic Con on Saturday. As part of the hour-long panel, O’Malley and Grabinski not only presented the trailer and teased the series, but confirmed that Julian Cihi will voice the Katayanagi Twins (Kyle and Ken).
+        The trailer takes fans back to Toronto “not too long ago” as Scott asks out Ramona Flowers, the “girl of my dreams.” But in order to date her, Scott must defeat her “seven evil exes.” Electric battles and even more electric guitar riffs set up a new chapter in the Scott Pilgrim saga, which sees the return of the live-action cast as their respective characters.`
     },
     {
         id: 6,
-        title: "Joshua Tree Overnight Advanture",
+        title: "Amazon’s James Bond Game Show Hosted by Brian Cox Releases Teaser Trailer",
         cat: "Latest",
-        date: "August 21 2017",
-        url: "https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928_1280.jpg",
-        desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias dicta earum natus similique enim mollitia iste voluptas dolor, delectus ipsa sunt eos nostrum ipsum quibusdam quam quis soluta commodi vero!"
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/007_Road_To_A_Million_The_Controller_05-EMBED-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `The show “follows nine pairs of everyday people as they are unleashed on an epic global adventure through a series of Bond-inspired challenges for a shot at each winning a life-changing £1,000,000 ($1.2 million) prize,” and promises that the challenges will “push their physical strength and mental reserves to the limit.”Cox plays “The Controller,” the “mastermind behind the game, who dictates where the pairs go, what they must do, and sets their questions. He monitors each pair’s quest, delighting in the unfolding drama of his intricately devised and often relentless challenges.”The teaser trailer shows off some of the global locations in the series, such as the Scottish Highlands, Chile’s Atacama Desert, the streets of Venice and the Swiss Alps.
+        The series is produced by the team behind the Bond film franchise, including Barbara Broccoli and Michael G. Wilson.
+        In 2021, Amazon acquired Bond rights holder MGM for $8.45 billion, and questions have circled about how Amazon might handle the iconic franchise. The release comes as producers are seeking a new actor to replace Daniel Craig for the next Bond film and beyond.`
+    },
+    {
+        id: 67,
+        title: "Google makes passkeys default sign-in option in all personal Google accounts, everything you need to know",
+        cat: "LatestArticle",
+        date: "Oct 13, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/passkeys-131228549-16x9.jpg?VersionId=GSlQ5gRqnTaAqKeCf_u5dZp46hx0Jx9V&size=690:388",
+        desc: `Google has announced that passkeys are now the default sign-in option for authentication for all personal Google accounts across its services and platforms. This means that once you set up a passkey linked to a device, users can sign into your Google accounts without entering a password or using 2-Step Verification (2SV) when logging in.
+        According to Google, passkeys are a simple and secure replacement for traditional passwords. The California-based tech giant first introduced passkeys in May 2022, and then integrated support for them into Android OS and Chrome in October 2022. In May 2023, Google expanded passkey support to personal Google accounts. Notably, Passkeys are compatible with all major web browsers and platforms, including Windows, macOS, iOS, and ChromeOS.`,
+        user: 'Divya Bhati'
+    },
+    {
+        id: 68,
+        title: "Light exercises you can do to control high blood pressure",
+        cat: "LatestArticle",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://images.healthshots.com/healthshots/en/uploads/2023/10/12170026/New-Project-45-770x436.jpg",
+        desc: `Exercising with high blood pressure is often considered unsafe. It is, however, a myth. Even if you have high blood pressure, it is usually safe to exercise, but you should avoid strenuous exercise. Here are 6 light exercises for high blood pressure patients.According to the World Health Organization (WHO), hypertension, or high blood pressure (BP), affects an estimated 1.28 billion adults aged 30-79 years globally. Following a poor diet with excessive salt consumption, using alcohol and tobacco, being obese and overweight, and a lack of physical activity are all risk factors for high blood pressure. While medicine given by a healthcare practitioner is essential for hypertension management, incorporating regular exercise into your daily routine is the most effective way to deal with it. But do you believe exercise is unsafe for those with hypertension? Don’t believe this myth. Exercise is actually highly beneficial for your heart health. Try these light exercises for high blood pressure.`,
+        user: 'Natalia Ningthoujam'
+    },
+    {
+        id: 69,
+        title: "Unstruck TV: Under the Radar Series to Fill Gaps in Fall Viewing",
+        cat: "LatestArticle",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Little-Bird-Paris-Police-1905-The-Most-Remote-Restaurant-in-the-World-Split-Publicity-H-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `While Hollywood writers are back at work, media companies have suspended negotiations with striking actors over a new contract. Even if talks resume and a settlement were to happen soon, however, it would likely be early 2024 before the two dozen or so dramas and comedies that normally premiere in the fall make it back onto screens.
+        As luck would have it, though, the era of peak streaming provides a nearly limitless array of series to watch. Below are a handful of new or recent lesser-known shows, many of them from outside the United States, on smaller streaming platforms (and one over-the-air network) that can help viewers fill in gaps in their viewing schedules while waiting for homegrown favorites to return. One bonus: None of the shows below are produced by companies against whom Hollywood’s unions are or were striking this year. Unless noted, all the streamers below offer seven-day free trials before subscription charges begin.`
+    },
+    {
+        id: 70,
+        title: "World Egg Day: 3 foods that are high in protein",
+        cat: "HomeStory",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104403526.cms?width=680&height=512&imgsize=38870",
+        desc: `In celebration of World Egg Day, let's explore three fantastic protein-rich foods that are great alternatives for those seeking a high-protein diet:
+        <br>
+        <b>1. Eggs</b>:
+        Eggs are a powerhouse of nutrition, providing high-quality protein and a wide range of essential vitamins and minerals. A single large egg contains about 6 grams of protein, making it a versatile and popular choice for meeting protein needs. Whether boiled, scrambled, poached, or used in baking and cooking, eggs are a convenient and delicious protein source.
+        <br/>
+        <b>2. Quinoa</b>:
+        Quinoa is a complete protein, meaning it contains all nine essential amino acids that the body cannot produce on its own. A cup of cooked quinoa contains approximately 8 grams of protein, making it an excellent plant-based protein option for vegetarians and vegans. Quinoa is versatile and can be used in salads, bowls, or as a side dish.
+        <br/>
+        <b>3. Greek Yogurt</b>:
+        Greek yogurt is a protein-packed dairy product that offers about 10-15 grams of protein per 100 grams, making it a protein-dense food. It is lower in lactose compared to regular yogurt due to the straining process, making it easier to digest for some individuals. Greek yogurt can be enjoyed on its own, mixed with fruits and nuts, or used in smoothies and various recipes.`,
+        user: 'TIMESOFINDIA.COM'
+    },
+    {
+        id: 71,
+        title: "Ex-Google  employee says  he  wanted to work at the company till retirement, loses job after 2.5 years of service",
+        cat: "HomeStory",
+        date: "Oct 9, 2023 17:07 IST",
+        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202310/google-employee-laid-off-291315960-16x9_0.jpg?VersionId=3QPNueQcu1McKFy3.ylBW3mxI3IhUok.&size=690:388",
+        desc: `Alphabet, Google's parent company, announced laying off hundreds of people from its recruiting team last month. Even though the exact number of impacted employees hasn't yet been known, many people came forward to share their side of the story. While announcing the layoffs, Alphabet had said that the decision to let go of "a few hundred" employees was not a "part of a wide-scale layoff". The company had also said that it will "retain a significant majority of the team for hiring critical roles". In addition to this, Alphabet announced helping the impacted employees to look for other roles from "within the company and elsewhere".Sharing about their experience of working at Google, some former employees wrote on LinkedIn that they will be missing their colleagues and workplace. Others, meanwhile, were grateful to have had the opportunity of working at the tech giant. One such employee wrote on LinkedIn that he wanted to work at the company till his retirement.
+        Google employee shares note on losing job
+        Beginning his post, the man wrote that he thought that he would be working at Google till he retires. However, he was affected by the recent mass layoffs carried out at the company. The man also mentions how the layoffs were not related to performance and that he got the news right before heading into the second half of his paternity leave.
+        Ending his note on a rather positive note, the ex-Google employee wrote that he would come back and work for the company '"in a fraction of a heartbeat" and that it is a "magical place with remarkable people."`,
+        user: 'Divyanshi Sharma'
+    },
+    {
+        id: 72,
+        title: "4 mouth-watering Korean dishes one needs to try",
+        cat: "HomeStory",
+        date: "Oct 15, 2023, 10:15 AM IST",
+        url: "https://static.toiimg.com/thumb/104440294.cms?width=680&height=512&imgsize=147450",
+        desc: `Korean cuisine is a tantalizing fusion of flavors, textures, and aromas that will leave your taste buds craving for more. Here are eight mouth-watering Korean dishes that are a must-try for any food enthusiast:
+        <br/>
+        <b>Bibimbap (비빔밥)</b>:
+        Bibimbap is a vibrant and colorful dish featuring mixed vegetables, marinated meat (often beef), a fried egg, and gochujang (Korean chili paste) served over steamed rice. The combination of various ingredients creates a delightful harmony of flavors and textures.
+        <br/>
+        <b>Kimchi (김치) </b>:
+        Kimchi is a staple in Korean cuisine, made from fermented vegetables, primarily cabbage and radishes, combined with spicy red chili paste, garlic, and other seasonings. It's a tangy and spicy dish with a unique depth of flavor that complements any Korean meal.
+        <br/>
+        <b>Samgyeopsal (삼겹살) </b>:
+        Samgyeopsal is a popular Korean barbecue dish that involves grilling thick slices of pork belly at the table. The cooked meat is typically eaten wrapped in lettuce leaves with various condiments like garlic, ssamjang (a thick, spicy paste), and kimchi, offering a delightful burst of flavors.
+        <br/>
+        <b>Japchae (잡채) </b>:
+        Japchae is a savory and slightly sweet stir-fried dish made with glass noodles, vegetables, and sometimes beef or other proteins. The noodles are seasoned with soy sauce and sesame oil, resulting in a delightful medley of textures and flavors.`,
+        user: 'TIMESOFINDIA.COM'
     },
     {
         id: 7,
@@ -280,7 +371,7 @@ let data = [
     },
     {
         id: 32,
-        title: "Apple CEO Tim Cook was asked if a new iPhone is necessary every year, here is what he said",
+        title: "Apple CEO Tim Cook was asked if a new iPhone    is necessary every year, here is what he said",
         cat: "TechnologyStories",
         date: "Oct 14, 2023 12:45 IST",
         url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/apple-ceo-tim-cook-071706-16x9.jpg?VersionId=fxmJnf3yTVpXkM1n1.VxZqWD1UcQM0Fp&size=690:388",
@@ -374,7 +465,7 @@ let data = [
     },
     {
         id: 41,
-        title: "Qualcomm announces job cuts, set to layoff 1,258 employees: Here are the details",
+        title: "Qualcomm announces job cuts,    set to layoff 1,258 employees: Here are the details",
         cat: "TechnologyStories",
         date: "Oct 13, 2023 17:07 IST",
         url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/qualcommjpg-011110-16x9_0.jpg?VersionId=U4ktR4UAgOjHAyNJZBpatfqnyDUjqEiu&size=690:388",
@@ -639,7 +730,7 @@ let data = [
         cat: "FoodLatest",
         date: "Oct 15, 2023, 10:15 AM IST",
         url: "https://static.toiimg.com/thumb/104440294.cms?width=680&height=512&imgsize=147450",
-        desc: `Korean cuisine is a tantalizing fusion of flavors, textures, and aromas that will leave your taste buds craving for more. Here are eight mouth-watering Korean dishes that are a must-try for any food enthusiast:
+        desc: `Korean cuisine is a tantalizing fusion        of flavors, textures, and aromas that will leave your taste buds craving for more. Here are eight mouth-watering Korean dishes that are a must-try for any food enthusiast:
         <br/>
         <b>Bibimbap (비빔밥)</b>:
         Bibimbap is a vibrant and colorful dish featuring mixed vegetables, marinated meat (often beef), a fried egg, and gochujang (Korean chili paste) served over steamed rice. The combination of various ingredients creates a delightful harmony of flavors and textures.
@@ -722,7 +813,7 @@ let data = [
         user: 'TIMESOFINDIA.COM'
     },
     {
-        id: 63,
+        id: 64,
         title: "October Heatwave: Water-packed foods that will keep you hydrated",
         cat: "FoodStories",
         date: "Oct 15, 2023, 10:15 AM IST",
@@ -746,7 +837,7 @@ let data = [
         user: 'TIMESOFINDIA.COM'
     },
     {
-        id: 64,
+        id: 65,
         title: "Efficient Ways to Store Lemons at Home for Freshness and Longevity",
         cat: "FoodStories",
         date: "Oct 15, 2023, 10:15 AM IST",
@@ -755,7 +846,7 @@ let data = [
         user: 'TIMESOFINDIA.COM'
     },
     {
-        id: 65,
+        id: 66,
         title: "Why Dal Chawal is the best meal for weight loss",
         cat: "FoodStories",
         date: "Oct 15, 2023, 10:15 AM IST",

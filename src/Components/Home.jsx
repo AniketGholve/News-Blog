@@ -10,11 +10,11 @@ const Home = () => {
     let store = useContext(Store)
     return (
         <div className="w-80 m-auto">
-            <ImageSlider store={store} category={"Travel"}/>
+            <ImageSlider store={store} category={"Travel"} />
             <Gallary store={store} category={"Travel"} />
             <LatestPost store={store} category={"Latest"} />
-            <LatestArticle store={store} category={"Latest"} />
-            <LatestStories store={store} category={"Latest"} />
+            <LatestArticle store={store} category={"LatestArticle"} />
+            <LatestStories store={store} category={"HomeStory"} />
         </div>
     )
 }
