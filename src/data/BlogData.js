@@ -153,6 +153,120 @@ let data = [
         url: "https://stat5.bollywoodhungama.in/wp-content/uploads/2023/10/Sid-Feature.jpg",
         desc: `Exciting news for all fans of Hrithik Roshan and Deepika Padukone! Director Siddharth Anand has graciously shared a tantalizing sneak peek from the sets of the highly anticipated spy-thriller, Fighter. This behind-the-scenes picture, posted on Siddharth Anand's Instagram Stories, offers a tantalizing glimpse into the making of this action-packed film.In the shared photograph, a group of individuals, adorned in uniforms, can be seen seated in neat rows, engrossed in their respective roles. The setting exuded an air of anticipation and preparation, leaving fans curious about the exciting sequences to come. Additionally, the image included a table adorned with various food items, adding an element of realism and immersion to the spy-thriller's atmosphere. Director Siddharth Anand accompanied this intriguing snapshot with the straightforward yet impactful caption, “#FighterBTS,” setting the stage for what promises to be a thrilling cinematic experience.`
     },
+    {
+        id: 19,
+        title: "Blake Lively and Ryan Reynolds Donate $1M to Support Children in Israel and Gaza",
+        cat: "Hollywood",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Blake-Lively-Ryan-Reynolds-Getty-H-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `Blake Lively and Ryan Reynolds are donating to yet another cause.
+        The couple donated $1 million to the International Committee of the Red Cross (ICRC) on Friday “to help children in Israel and Gaza,” a source close to the pair told The Hollywood Reporter. They have four children and are adamant about sending financial aid to causes that are important to them.
+        In the past, Lively and Reynolds matched up to $1 million in donations that were sent to the United Nations High Commissioner for Refugees after Russia invaded Ukraine, as well as $500,000 to Indigenous-focused safe water charity Water First Education & Training Inc. They also donated another $1 million split between Feeding America and Food Banks Canada, following the start of the COVID-19 pandemic.`
+    },
+    {
+        id: 20,
+        title: "Pete Davidson’s ‘SNL’ Cold Open Addresses Israel-Hamas War: “Sometimes Comedy Is Really the Only Way Forward Through Tragedy”",
+        cat: "Hollywood",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Pete-Davidson-snl-nbc-screenshot-H-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `For the premiere of its 49th season, Saturday Night Live skipped its regularly scheduled sketch parodying the week’s news. Instead, host Pete Davidson delivered, in a rare staid demeanor, a solemn cold open addressing the Israel-Hamas war.
+        “This week we saw the horrible images and stories from Israel and Gaza. And I know what you’re thinking, who better to comment on it than Pete Davidson?,” says Davidson, who shared a personal connection to the ongoing trauma. “Well, in a lot of ways I am a good person to talk about it because when I was seven years old, my dad was killed in a terrorist attack. So I know something about what’s that like.” (Scott Davidson was a New York City firefighter who died on Sept. 11, 2001.`
+    },
+    {
+        id: 21,
+        title: "‘Hunger Games’ Director Says He “Totally Regrets” Splitting ‘Mockingjay’ Into Two Films",
+        cat: "Hollywood",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Francis-Lawrence-and-Mockingjay-Still-Getty-H-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `During an interview with People magazine, published online Friday, the filmmaker admitted that if he had to redo the Jennifer Lawrence-led films, he wouldn’t split Mockingjay into two separate parts.
+        “I totally regret it. I totally do,” Lawrence said. “I’m not sure everybody does, but I definitely do.”
+        He also noted that the team agreed at the time that the two halves of Mockingjay, which were released in theaters a year apart, “had their own separate dramatic questions,” which made for complete arcs. But he also acknowledged why some fans weren’t too happy with the long waiting period between the films.`
+    },
+    {
+        id: 22,
+        title: "‘Scott Pilgrim Takes Off’ Trailer Teases a Colorful Anime Take on the Battle of the Exes Tale",
+        cat: "HollywoodLatest",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Scott_Pilgrim_Takes_Off_u_S1_E1_00_22_07_11-H-2023.jpg?w=2000&h=1126&crop=1&resize=1000%2C564",
+        desc: `The two-minute teaser for the show, created for television by executive producers and co-showrunners Bryan Lee O’Malley and BenDavid Grabinski, debuted during New York Comic Con on Saturday. As part of the hour-long panel, O’Malley and Grabinski not only presented the trailer and teased the series, but confirmed that Julian Cihi will voice the Katayanagi Twins (Kyle and Ken).
+        The trailer takes fans back to Toronto “not too long ago” as Scott asks out Ramona Flowers, the “girl of my dreams.” But in order to date her, Scott must defeat her “seven evil exes.” Electric battles and even more electric guitar riffs set up a new chapter in the Scott Pilgrim saga, which sees the return of the live-action cast as their respective characters.`
+    },
+    {
+        id: 23,
+        title: "Stephanie Beatriz, Keith David, Alex Brightman Lead ‘Hazbin Hotel’ Voice Cast",
+        cat: "HollywoodLatest",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/HazbinHotelVoiceCastSplit.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `The full voice cast — along with a teaser of an original song — were revealed during New York Comic Con on Saturday. Erika Henningsen, Kimiko Glenn, Blake Roman and Amir Talai were also announced as series regulars during the event, with Christian Borle and Joel Perez rounding out the voice ensemble as the notable demons of Hell, Vox and Valentino, respectively.
+        Henningsen, known for her role as Cady Heron in Broadway’s Mean Girls musical, will voice Charlie, the estranged daughter of Lucifer who wants to find a way to redeem sinners into Heaven through rehabilitation in the Hazbin Hotel. Beatriz is set to play Vaggie, her very protective girlfriend and a skilled combatant with a heart of gold.`
+    },
+    {
+        id: 24,
+        title: "Eddie Murphy’s Christmas Cheer Turns Into Comedic Terror When His Holiday Wishes Are Granted in ‘Candy Cane Lane’ Trailer",
+        cat: "HollywoodLatest",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/CCLN_2023_UT_230223_BARCLA_07612R_V2_C3.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `Eddie Murphy is facing off with angry geese — enchanted ceramic Christmas villagers and one havoc — wreaking elf in the first trailer for Candy Cane Lane.
+        Prime Video released the teaser for Eddie Murphy’s first holiday film on Thursday — offering a fuller look at the adventure comedy where Christmas wishes go awry. The film reunites the actor and comedian with director Reginald Hudlin and producer Brian Grazer for the first time since 1992’s Boomerang. 
+        Murphy stars as Chris Carver, a man on a mission to win his annual Christmas home decoration contest — a desire not shared by his rather exasperated family. But when he and his youngest daughter stumble upon a Christmas store, his dream of “the best Christmas ever” — winning the contest — becomes a nightmare after an elf named Pepper (Jillian Bell) grants his wish, literally.`
+    },
+    {
+        id: 25,
+        title: "Amazon’s James Bond Game Show Hosted by Brian Cox Releases Teaser Trailer",
+        cat: "HollywoodArticle",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/007_Road_To_A_Million_The_Controller_05-EMBED-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `The show “follows nine pairs of everyday people as they are unleashed on an epic global adventure through a series of Bond-inspired challenges for a shot at each winning a life-changing £1,000,000 ($1.2 million) prize,” and promises that the challenges will “push their physical strength and mental reserves to the limit.”Cox plays “The Controller,” the “mastermind behind the game, who dictates where the pairs go, what they must do, and sets their questions. He monitors each pair’s quest, delighting in the unfolding drama of his intricately devised and often relentless challenges.”The teaser trailer shows off some of the global locations in the series, such as the Scottish Highlands, Chile’s Atacama Desert, the streets of Venice and the Swiss Alps.
+        The series is produced by the team behind the Bond film franchise, including Barbara Broccoli and Michael G. Wilson.
+        In 2021, Amazon acquired Bond rights holder MGM for $8.45 billion, and questions have circled about how Amazon might handle the iconic franchise. The release comes as producers are seeking a new actor to replace Daniel Craig for the next Bond film and beyond.`
+    },
+    {
+        id: 26,
+        title: "Amazon Prime Big Deal Days: 39 Best Discounts to Shop on Day Two",
+        cat: "HollywoodArticle",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/amazon-prime-day-deals.jpeg?w=2000&h=1126&crop=1&resize=1440%2C810",
+        desc: `Amazon Prime members have a second chance to score some steep discounts and deals this year, with the site’s first-ever Amazon Prime Big Deal Days Event.
+        See latest Prime Big Deal Deals offers and live sales here
+        The new Prime Big Deal Days began Tuesday, Oct. 10, at 12 a.m. PT/3 a.m. ET and runs through the end of Oct. 11.
+        Similar to last year’s second Prime Day, dubbed the Prime Early Access Sale, the Prime Big Deal Days are a great opportunity to get a head-start on holiday shopping and to get products in stock (and on sale) before the Black Friday rush. Here’s what you need to know about the fall Prime Day and a curated look at the best deals to shop.`
+    },
+    {
+        id: 27,
+        title: "Unstruck TV: Under the Radar Series to Fill Gaps in Fall Viewing",
+        cat: "HollywoodArticle",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Little-Bird-Paris-Police-1905-The-Most-Remote-Restaurant-in-the-World-Split-Publicity-H-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `While Hollywood writers are back at work, media companies have suspended negotiations with striking actors over a new contract. Even if talks resume and a settlement were to happen soon, however, it would likely be early 2024 before the two dozen or so dramas and comedies that normally premiere in the fall make it back onto screens.
+        As luck would have it, though, the era of peak streaming provides a nearly limitless array of series to watch. Below are a handful of new or recent lesser-known shows, many of them from outside the United States, on smaller streaming platforms (and one over-the-air network) that can help viewers fill in gaps in their viewing schedules while waiting for homegrown favorites to return. One bonus: None of the shows below are produced by companies against whom Hollywood’s unions are or were striking this year. Unless noted, all the streamers below offer seven-day free trials before subscription charges begin.`
+    },
+    {
+        id: 28,
+        title: "‘The American Buffalo’ Review: Even Not-Peak Ken Burns Is Still Worth a Watch",
+        cat: "HollywoodStories",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/S06459-H-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `A couple of weeks ago, Ken Burns was trending on social media, an unusual position for the titan of PBS historical chronicles.
+        Had Burns produced a wildly controversial new documentary or debuted a provocatively controversial new haircut? Nah. The Baseball and Jazz filmmaker had taken a picture at an event with Clarence Thomas.The Twitter brouhaha passed so quickly — debate in the realm of Elon Musk has gone from something already ephemeral to barely a fart in the wind — that there wasn’t even an opportunity for Burns’ latest PBS offering to capitalize on the buzz. It’s a pity, because The American Buffalo may have the least inherent sizzle of any Burns project since his pre-Civil Wars days making short films about iconic inanimate objects and the Shakers.`
+    },
+    {
+        id: 29,
+        title: "Diablo Cody’s ‘Lisa Frankenstein’ Gets First Look, Launch Date",
+        cat: "HollywoodStories",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-13-at-12.29.09-PM-H-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `A couple of weeks ago, Ken Burns was trending on social media, an unusual position for the titan of PBS historical chronicles.
+        Had Burns produced a wildly controversial new documentary or debuted a provocatively controversial new haircut? Nah. The Baseball and Jazz filmmaker had taken a picture at an event with Clarence Thomas.The Twitter brouhaha passed so quickly — debate in the realm of Elon Musk has gone from something already ephemeral to barely a fart in the wind — that there wasn’t even an opportunity for Burns’ latest PBS offering to capitalize on the buzz. It’s a pity, because The American Buffalo may have the least inherent sizzle of any Burns project since his pre-Civil Wars days making short films about iconic inanimate objects and the Shakers.`
+    },
+    {
+        id: 30,
+        title: "Natasha Lyonne on Her Latest Old Navy Holiday Campaign and Her “Grown-Up Business Lady” Style",
+        cat: "HollywoodStories",
+        date: "August 21 2023",
+        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Natasha-Lyonne-Old-Navy-Holiday-Campaign-PUBLICITY-MAIN-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        desc: `Natasha Lyonne may play an accidental gumshoe in Poker Face, but offscreen, she’s yet to solve the mystery of some missing Old Navy pants. The Emmy-nominated actress and producer is ringing in the holiday season early with a new campaign for the clothier, which will premiere in theaters today at Taylor Swift: Eras Tour concert film screenings before running on TV and online.
+        “There is a real mystery happening on the Old Navy set, which is the case of the disappearing denim jeans,” Lyonne tells The Hollywood Reporter. “I wore them with that overcoat and the beanie. Those jeans are so cute and I’m obsessed with them. And when we wrapped, we went to find them to take home. And it’s been the real magical mystery tour of the holiday campaign shoot. We were looking in every room … we’re hoping to crack it by the Emmys, Cristina [Ehrlich] and I. Then if not, we’re gonna send a really, excited request to Old Navy for a new pair of jeans.”`
+    },
 
 ]
 
