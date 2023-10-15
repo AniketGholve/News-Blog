@@ -396,12 +396,30 @@ let data = [
         title: "Pre-workout snacks are important. These are some healthy ones you should try",
         cat: "Fitness",
         date: "Oct 13, 2023 17:07 IST",
-        url: "https://www.lyu.ac.in/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fstudent-life.eaf01c53.png&w=1920&q=75",
+        url: "https://images.everydayhealth.com/images/healthy-living/fitness/all-about-yoga-mega-722x406.jpg",
         desc: `You know that wild hunger that threatens to have you falling flat on your face while you’re working out? That is precisely the reason why pre-workout snacks are important.
         Ekta Singhwal, dietician at Ujala Cygnus Group of Hospitals, explained that these snacks play a crucial role in enhancing performance and promoting overall well-being while you’re exercising.
         Your body needs a readily available source of energy when you work out and healthy snacking provides this energy in the form of carbohydrates. For those who don’t know, carbohydrates are the body’s preferred fuel source during moderate to high-intensity activities, like a workout.
         The dizziness you feel during your workout sometimes happens when your blood sugar levels drop too low. Pre-workout snacks can also help stabilise blood sugar levels, important for maintaining energy and preventing fatigue during your workout.`,
         user: 'Lifestyle Desk'
+    },
+    {
+        id: 44,
+        title: "New heart rhythm categorisation for stroke patients: Study",
+        cat: "Fitness",
+        date: "Oct 15, 2023 10:12 AM IST",
+        url: "https://www.hindustantimes.com/ht-img/img/2023/10/15/550x309/heart-health_49f8a0c6-1c25-11e6-878c-ac18b651cb15_1697344818488.jpg",
+        desc: `A new study described the understanding of atrial fibrillation seen in stroke patients. According to the study, atrial fibrillation discovered after a stroke is not the same as irregular heartbeats known prior to the stroke.Millions of stroke survivors worldwide are subjected to extended cardiac monitoring, which leads to the identification of atrial fibrillation, or abnormal heartbeats, in up to 1.5 million of these patients each year.The study, led by Western University professor Dr. Luciano Sposato, proposes that atrial fibrillation detected post-stroke exhibits distinct characteristics. It has a lower prevalence of risk factors, cardiovascular comorbidities, and changes associated with upper chambers of the heart than atrial fibrillation known prior to the stroke. This could potentially explain its association with a decreased risk of another ischaemic stroke, which results from a blocked artery.`,
+        user: 'Tapatrisha Das'
+    },
+    {
+        id: 45,
+        title: "Fatty liver: 7 lifestyle changes to reverse the disease",
+        cat: "Fitness",
+        date: "Oct 15, 2023 10:12 AM IST",
+        url: "https://www.hindustantimes.com/ht-img/img/2023/10/14/550x309/shutterstock_food_1695987367138_1697283816560.jpg",
+        desc: `"It's time to demystify this condition and take proactive steps towards a healthier liver. How does it happen? Fatty liver occurs when excess fat accumulates in your liver cells. This can be triggered by factors like a high-sugar diet, excessive alcohol consumption, obesity, and even genetics. It's a silent condition that can progress if left unchecked," writes Nutritionist Bhakti Arora Kapoor in her recent Instagram post.Dietary adjustments: Opt for a balanced diet rich in fruits, vegetables, whole grains, and lean proteins. Limit sugar, processed foods, and saturated fats`,
+        user: 'Tapatrisha Das'
     },
 ]
 
