@@ -16,10 +16,33 @@
 
 }
 
+.nav-mob li:hover {
+    border-bottom: 2px solid #F08080;
+}
+.nav-mob {
+    display: none;
+    list-style: none;
+    justify-content: space-around;
+    width: 100%;
+    margin: 2em auto;
+}
+
+.nav-mob li {
+    cursor: pointer;
+}
+
+.nav-mob li a {
+    text-decoration: none;
+    color: black;
+
+}
+
 .nav li:hover {
     border-bottom: 2px solid #F08080;
 }
-
+.hideBars{
+    display: none;
+}
 .gallary {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -201,10 +224,12 @@ img:hover {
 .sliderView {
     display: none;
 }
-.text-justify{
+
+.text-justify {
     text-align: justify;
 }
-.active{
+
+.active {
     border-bottom: 3px solid #F08080;
 }
 
@@ -238,8 +263,23 @@ img:hover {
         grid-column: 1/2;
     }
 
-    .nav {
+    .nav-mob {
+        flex-direction: column;
+        text-align: center;
+        line-height: 2.5em;
+        display: flex;
+        position: fixed;
+        top: 14%;
+        z-index: 22;
+        background-color: white;
+        padding: 0%;
+        transition-duration: 2s;
+    }
+    .nav{
         display: none;
+    }
+    .hideBars{
+        display: flex;
     }
 
     .sliderView {
@@ -262,10 +302,12 @@ img:hover {
         height: 100%;
         width: 100%;
     }
-    .d-block{
+
+    .d-block {
         display: block;
     }
-    img{
+
+    img {
         object-fit: fill !important;
     }
 }
@@ -286,14 +328,17 @@ img:hover {
     .article {
         grid-column: 1/9;
     }
-    img{
+
+    img {
         object-fit: fill !important;
         width: 100%;
     }
+
     .article a img {
         width: 200px;
     }
-    .d-block{
+
+    .d-block {
         display: block;
     }
 }
