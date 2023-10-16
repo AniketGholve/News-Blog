@@ -12,7 +12,15 @@
 
 <body>
   <div id="root"></div>
+  <div id="preloader">
+    <img src="https://seeklogo.com/images/B/business-people-circle-logo-83C8022853-seeklogo.com.png" alt="">
+  </div>
   <script type="module" src="/src/main.jsx"></script>
+  <script>
+    window.addEventListener('load', function () {
+      document.body.classList.add('loaded');
+    });
+  </script>
 </body>
 
 </html>
