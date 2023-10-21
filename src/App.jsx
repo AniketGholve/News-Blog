@@ -11,6 +11,7 @@ import Fitness from './Components/Fitness'
 import { createContext } from 'react';
 import data from './data/BlogData';
 import Details from './Components/Details'
+import Footer from './Components/Footer'
 
 export const Store = createContext();
 function App() {
@@ -30,6 +31,7 @@ function App() {
           <Route path='/details/:id' element={<Details />}></Route>
         </Routes >
       </Store.Provider>
+      <Footer/>
     </>
   )
 }

@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { Link } from 'react-router-dom'
-const LatestPost = ({store,category}) => {
+const LatestPost = ({ store, category }) => {
     return (
         <>
             <h1 className='latest mt-5'>The Latest</h1>

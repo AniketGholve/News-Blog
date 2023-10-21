@@ -1,8 +1,9 @@
 /* eslint-disable react/prop-types */
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 const Gallary = ({ store, category }) => {
+    let path = useLocation().pathname;
     return (
-        <div className="gallary mt-5 gallaryView">
+        <div className={path === "/" ? "gallary mt-5 gallaryView" : "hideGallary"}>
             {
                 store.data.filter(item => item.cat === category).map((val, key) => (
                     <div key={key} className={`card card${key}`}>

@@ -11,7 +11,11 @@ const Details = () => {
             {
                 store.data.filter(item => item.id === parseInt(id)).map((val, key) => (
                     <div className='details' key={key}>
-                        <div className='m-auto'>
+                        <div className='m-auto p-relative'>
+                            <div className='moreAction'>
+                                <h3><i className="fa-solid fa-heart" style={{color:"#ff3070"}}></i> 5K</h3>
+                                <button><i className="fa-solid fa-share-nodes"></i> Share this Blog</button>
+                            </div>
                             <h1 className='text-center'>{val.title}</h1>
                             <div className='m-auto'>
                                 <div className='w-80 m-auto d-flex g-10 align-center d-block'>

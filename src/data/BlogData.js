@@ -1,6 +1,15 @@
 let data = [
     {
         id: 1,
+        title: "Jawan Box Office Collection Day 41: SRK’s Action Entertainer Sees Lowest Collection As It Inches Towards 640Cr",
+        cat: "Travel",
+        date: "August 21 2023",
+        url: "https://www.filmibeat.com/img/2023/10/jawanday41main-1697529220.jpg",
+        desc: `Shah Rukh Khan has proved 2023 is his year in more than one way. After a spectacular start of the year with Siddharth Kanan's Pathaan opposite Deepika Padukone and John Abraham, King Khan has been the talk of the town for his recent release. We are talking about Atlee directorial Jawan which also features Nayanthara, Deepika Padukone, Vijay Sethupathi, Priyamani, Sanya Malhotra etc in the lead. The movie has been a mass entertainer and has opened to rave reviews from the audience and critics. In fact, Jawan has witnessed a thunderous opening at the box office and it went on to become the highest box office opener followed by shattering several box office records. In fact, Jawan has emerged as the highest grossing Hindi movie of all time.`
+        ,user: 'Divya Bhati'
+    },
+    {
+        id: 2,
         title: "Eddie Murphy’s Christmas Cheer Turns Into Comedic Terror When His Holiday Wishes Are Granted in ‘Candy Cane Lane’ Trailer",
         cat: "Travel",
         date: "August 21 2023",
@@ -8,6 +17,7 @@ let data = [
         desc: `Eddie Murphy is facing off with angry geese — enchanted ceramic Christmas villagers and one havoc — wreaking elf in the first trailer for Candy Cane Lane.
         Prime Video released the teaser for Eddie Murphy’s first holiday film on Thursday — offering a fuller look at the adventure comedy where Christmas wishes go awry. The film reunites the actor and comedian with director Reginald Hudlin and producer Brian Grazer for the first time since 1992’s Boomerang. 
         Murphy stars as Chris Carver, a man on a mission to win his annual Christmas home decoration contest — a desire not shared by his rather exasperated family. But when he and his youngest daughter stumble upon a Christmas store, his dream of “the best Christmas ever” — winning the contest — becomes a nightmare after an elf named Pepper (Jillian Bell) grants his wish, literally.`
+        ,user: 'Divya Bhati'
     },
     {
         id: 2,
@@ -20,17 +30,6 @@ let data = [
         Your body needs a readily available source of energy when you work out and healthy snacking provides this energy in the form of carbohydrates. For those who don’t know, carbohydrates are the body’s preferred fuel source during moderate to high-intensity activities, like a workout.
         The dizziness you feel during your workout sometimes happens when your blood sugar levels drop too low. Pre-workout snacks can also help stabilise blood sugar levels, important for maintaining energy and preventing fatigue during your workout.`,
         user: 'Lifestyle Desk'
-    },
-    {
-        id: 3,
-        title: "Kuch Kuch Hota Hai’s 25th anniversary special screening tickets, priced at Rs. 25, SOLD OUT in less than 25 minutes",
-        cat: "Travel",
-        date: "August 21 2023",
-        url: "https://stat5.bollywoodhungama.in/wp-content/uploads/2023/10/BREAKING-Kuch-Kuch-Hota-Hais-25th-anniversary-special-screening-tickets-priced-at-Rs.-25-SOLD-OUT-in-less-than-25-minutes.jpg",
-        desc: `One of the greatest films of Indian cinema, Kuch Kuch Hota Hai, was released on October 16, 1998. Hence, this year, the love saga will complete 25 years. As expected, the excitement is palpable and Dharma Productions, the producers, have decided to celebrate the anniversary in a grand fashion. A few hours ago, the social media handle of the production house, announced that a special screening of the film will be held on Sunday, October 15. The booking was soon opened and in no time, the shows got sold out.
-        An exhibition source told Bollywood Hungama, “The low price point must have played a part. It’s unbelievable for moviegoers that they will get to see the film in a swanky multiplex for just Rs. 25. Moreover, the film has a charm and is timeless. Many moviegoers were too young or were not even born when it was released in 1998. Hence, they either don’t vividly remember or have never seen the film on the big screen. And of course, Shah Rukh Khan’s presence in the lead along with Kajol and Rani Mukerji and association of Karan Johar as the director, all of whom are going strong even today, also must have been another reason why the shows got house full immediately.”
-        The source continued, “Nevertheless, no one expected such reception to the re-release of Kuch Kuch Hota Hai. There was no prior intimation. The booking began all of a sudden and yet, such was the response.”
-        As per another source, one more show of Kuch Kuch Hota Hai will be added in the same theatre, that is, PVR Icon Versova. It now remains to be seen if more shows of Kuch Kuch Hota Hai are added not just in other PVR theatres Mumbai but also in other cities. `
     },
     {
         id: 4,
@@ -50,6 +49,7 @@ let data = [
         url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Scott_Pilgrim_Takes_Off_u_S1_E1_00_22_07_11-H-2023.jpg?w=2000&h=1126&crop=1&resize=1000%2C564",
         desc: `The two-minute teaser for the show, created for television by executive producers and co-showrunners Bryan Lee O’Malley and BenDavid Grabinski, debuted during New York Comic Con on Saturday. As part of the hour-long panel, O’Malley and Grabinski not only presented the trailer and teased the series, but confirmed that Julian Cihi will voice the Katayanagi Twins (Kyle and Ken).
         The trailer takes fans back to Toronto “not too long ago” as Scott asks out Ramona Flowers, the “girl of my dreams.” But in order to date her, Scott must defeat her “seven evil exes.” Electric battles and even more electric guitar riffs set up a new chapter in the Scott Pilgrim saga, which sees the return of the live-action cast as their respective characters.`
+        ,user: 'Divya Bhati'
     },
     {
         id: 6,
@@ -60,6 +60,7 @@ let data = [
         desc: `The show “follows nine pairs of everyday people as they are unleashed on an epic global adventure through a series of Bond-inspired challenges for a shot at each winning a life-changing £1,000,000 ($1.2 million) prize,” and promises that the challenges will “push their physical strength and mental reserves to the limit.”Cox plays “The Controller,” the “mastermind behind the game, who dictates where the pairs go, what they must do, and sets their questions. He monitors each pair’s quest, delighting in the unfolding drama of his intricately devised and often relentless challenges.”The teaser trailer shows off some of the global locations in the series, such as the Scottish Highlands, Chile’s Atacama Desert, the streets of Venice and the Swiss Alps.
         The series is produced by the team behind the Bond film franchise, including Barbara Broccoli and Michael G. Wilson.
         In 2021, Amazon acquired Bond rights holder MGM for $8.45 billion, and questions have circled about how Amazon might handle the iconic franchise. The release comes as producers are seeking a new actor to replace Daniel Craig for the next Bond film and beyond.`
+        ,user: 'Divya Bhati'
     },
     {
         id: 67,
@@ -161,7 +162,7 @@ let data = [
         title: "Anupamaa, Yeh Rishta Kya Kehlata Hai, Shiv Shakti and other Top 10 TV shows upcoming twists",
         cat: "Bollywood",
         date: "August 21 2023",
-        url: "https://cdn.siasat.com/wp-content/uploads/2023/01/salman-khan-education.jpg",
+        url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1671545325.webp",
         desc: "Bigg Boss 17 is all set for a grand premiere on October 15 at 9 p.m. on Colors. The show has been a superhit with fans over the years with its over-the-top theme and controversial nature. This time is going to be no different as some of the best names from the world of television, Bollywood, and social media enter the house and battle it out to become the winners. The show has the theme of Dil Dimaag Aur Dum, and the game will not be the same for any of the contestants or like any of the previous seasons. Salman's show is all set to throw in many surprises for the audience once Bigg Boss 17 starts airing. But before that, there is a surprise that Salman has whipped up for his fans at the grand premiere. He will be performing some of his most iconic songs to regale the viewers, who also watch the show just for him. Take a look at the sneak peek here."
     },
     {
@@ -249,7 +250,7 @@ let data = [
         title: "Blake Lively and Ryan Reynolds Donate $1M to Support Children in Israel and Gaza",
         cat: "Hollywood",
         date: "August 21 2023",
-        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Blake-Lively-Ryan-Reynolds-Getty-H-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        url: "https://hips.hearstapps.com/elleuk.cdnds.net/17/16/2560x1280/landscape-1492590007-blake-lively-ryan-reynolds.jpg?resize=1200:*",
         desc: `Blake Lively and Ryan Reynolds are donating to yet another cause.
         The couple donated $1 million to the International Committee of the Red Cross (ICRC) on Friday “to help children in Israel and Gaza,” a source close to the pair told The Hollywood Reporter. They have four children and are adamant about sending financial aid to causes that are important to them.
         In the past, Lively and Reynolds matched up to $1 million in donations that were sent to the United Nations High Commissioner for Refugees after Russia invaded Ukraine, as well as $500,000 to Indigenous-focused safe water charity Water First Education & Training Inc. They also donated another $1 million split between Feeding America and Food Banks Canada, following the start of the COVID-19 pandemic.`
@@ -259,7 +260,7 @@ let data = [
         title: "Pete Davidson’s ‘SNL’ Cold Open Addresses Israel-Hamas War: “Sometimes Comedy Is Really the Only Way Forward Through Tragedy”",
         cat: "Hollywood",
         date: "August 21 2023",
-        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Pete-Davidson-snl-nbc-screenshot-H-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        url: "https://cdn.newsday.com/ace/c:YjE0MTZhOTAtOWJkMi00:ODUwZTE3/landscape/1280",
         desc: `For the premiere of its 49th season, Saturday Night Live skipped its regularly scheduled sketch parodying the week’s news. Instead, host Pete Davidson delivered, in a rare staid demeanor, a solemn cold open addressing the Israel-Hamas war.
         “This week we saw the horrible images and stories from Israel and Gaza. And I know what you’re thinking, who better to comment on it than Pete Davidson?,” says Davidson, who shared a personal connection to the ongoing trauma. “Well, in a lot of ways I am a good person to talk about it because when I was seven years old, my dad was killed in a terrorist attack. So I know something about what’s that like.” (Scott Davidson was a New York City firefighter who died on Sept. 11, 2001.`
     },
@@ -268,7 +269,7 @@ let data = [
         title: "‘Hunger Games’ Director Says He “Totally Regrets” Splitting ‘Mockingjay’ Into Two Films",
         cat: "Hollywood",
         date: "August 21 2023",
-        url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Francis-Lawrence-and-Mockingjay-Still-Getty-H-2023.jpg?w=1296&h=730&crop=1&resize=1000%2C563",
+        url: "https://images4.alphacoders.com/606/606649.jpg",
         desc: `During an interview with People magazine, published online Friday, the filmmaker admitted that if he had to redo the Jennifer Lawrence-led films, he wouldn’t split Mockingjay into two separate parts.
         “I totally regret it. I totally do,” Lawrence said. “I’m not sure everybody does, but I definitely do.”
         He also noted that the team agreed at the time that the two halves of Mockingjay, which were released in theaters a year apart, “had their own separate dramatic questions,” which made for complete arcs. But he also acknowledged why some fans weren’t too happy with the long waiting period between the films.`
@@ -363,7 +364,7 @@ let data = [
         title: "Apple said to announce new iPads on October 17, here are the details",
         cat: "Technology",
         date: "Oct 15, 2023 17:08 IST",
-        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/ipad-152045990-16x9.jpg?VersionId=8mhQMsckJBOW1klJISUsZwPrCn90.6oS&size=690:388",
+        url: "https://techandall.com/wp-content/uploads/2018/11/techandall-iPad-Pro-2018-mockup-full.jpg",
         desc: `Apple just recently wrapped its major iPhone 15 event and it now seems that the company is planning to announce new products next week. A report from 9to5Mac claims that the company will unveil its latest set of iPad lineup, which is slated to take place on October 17. The cited source says the news has been confirmed by multiple sources. Here are the details.If the leak is to be believed, the forthcoming announcement is set to focus primarily on the iPad Air, iPad mini, and the base model iPad. Apple might just make cosmetic changes to the design and the new iPads are said to get upgrades in terms of hardware. So, one can expect to get performance improvements.
         The existing iPad Air, which was launched nearly three years ago, is currently powered by the formidable M1 chip. Apple's next move is expected to involve upgrading this model to the M2 chip, promising a notable boost in performance and efficiency.
         The iPad mini, on the other hand, is set to receive an upgrade to the A16 Bionic chip, a subtle yet significant enhancement over its current A15 Bionic chip. This upgrade aims to address the "jelly scrolling" issue that has plagued some users of the current iPad mini, promising a smoother and more responsive scrolling experience.`,
@@ -386,7 +387,7 @@ let data = [
         title: "Ex-Google employee says he wanted to work at the company till retirement, loses job after 2.5 years of service",
         cat: "Technology",
         date: "Oct 9, 2023 17:07 IST",
-        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202310/google-employee-laid-off-291315960-16x9_0.jpg?VersionId=3QPNueQcu1McKFy3.ylBW3mxI3IhUok.&size=690:388",
+        url: "https://www.southcoastregister.com.au/images/transform/v1/crop/frm/205515339/47d0abe1-e7c1-4ddb-ad36-6ec42276540b.jpg/r0_13_5656_3708_w1200_h678_fmax.jpg",
         desc: `Alphabet, Google's parent company, announced laying off hundreds of people from its recruiting team last month. Even though the exact number of impacted employees hasn't yet been known, many people came forward to share their side of the story. While announcing the layoffs, Alphabet had said that the decision to let go of "a few hundred" employees was not a "part of a wide-scale layoff". The company had also said that it will "retain a significant majority of the team for hiring critical roles". In addition to this, Alphabet announced helping the impacted employees to look for other roles from "within the company and elsewhere".Sharing about their experience of working at Google, some former employees wrote on LinkedIn that they will be missing their colleagues and workplace. Others, meanwhile, were grateful to have had the opportunity of working at the tech giant. One such employee wrote on LinkedIn that he wanted to work at the company till his retirement.
         Google employee shares note on losing job
         Beginning his post, the man wrote that he thought that he would be working at Google till he retires. However, he was affected by the recent mass layoffs carried out at the company. The man also mentions how the layoffs were not related to performance and that he got the news right before heading into the second half of his paternity leave.
@@ -458,7 +459,7 @@ let data = [
         title: "Amazon, Flipkart, similar platforms may be in trouble as Firefox plans to launch built-in fake reviews detector",
         cat: "Technology",
         date: "Oct 13, 2023 17:07 IST",
-        url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/firefox-132455317-16x9.jpg?VersionId=MjltauLmDDgKamO4SH0CZ9SoEXpBJW2f&size=690:388",
+        url: "https://www.mozilla.org/media/img/firefox/template/page-image-master.1b6efe3d5631.jpg",
         desc: `Samsung Galaxy A05s is all set to launch in India on October 18. The company has confirmed the launch of the new budget Samsung phone, which is expected to be priced under Rs 15,000 segment in India. Ahead of the event, Samsung has also revealed a few key features of the new Samsung Galaxy A05s smartphone. Here are the details.Samsung Galaxy A05s: Expected price in India
         The anticipated cost of this 5G smartphone is likely to come in below that of the Samsung Galaxy M15. If Samsung decides to launch the Galaxy A05s at a higher price point than the Galaxy M15, potential customers might opt for alternative choices. The Galaxy M15 made its debut with an initial price of Rs 13,490. It's uncertain how Samsung will strategically price its latest budget smartphone to prevent direct comparisons with other models in the same category. But, since the device is launching during the festive season, it is expected to cost less after the launch. The details for the same will be revealed next week.`,
         user: 'Ankita Garg'
@@ -487,7 +488,7 @@ let data = [
         title: "Pre-workout snacks are important. These are some healthy ones you should try",
         cat: "Fitness",
         date: "Oct 13, 2023 17:07 IST",
-        url: "https://images.everydayhealth.com/images/healthy-living/fitness/all-about-yoga-mega-722x406.jpg",
+        url: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de1c055c-dfdc-48f7-bd86-f6a03570a0af.__CR0,0,970,600_PT0_SX970_V1___.jpg",
         desc: `You know that wild hunger that threatens to have you falling flat on your face while you’re working out? That is precisely the reason why pre-workout snacks are important.
         Ekta Singhwal, dietician at Ujala Cygnus Group of Hospitals, explained that these snacks play a crucial role in enhancing performance and promoting overall well-being while you’re exercising.
         Your body needs a readily available source of energy when you work out and healthy snacking provides this energy in the form of carbohydrates. For those who don’t know, carbohydrates are the body’s preferred fuel source during moderate to high-intensity activities, like a workout.
@@ -508,7 +509,7 @@ let data = [
         title: "Fatty liver: 7 lifestyle changes to reverse the disease",
         cat: "Fitness",
         date: "Oct 15, 2023 10:12 AM IST",
-        url: "https://www.hindustantimes.com/ht-img/img/2023/10/14/550x309/shutterstock_food_1695987367138_1697283816560.jpg",
+        url: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=2053&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         desc: `"It's time to demystify this condition and take proactive steps towards a healthier liver. How does it happen? Fatty liver occurs when excess fat accumulates in your liver cells. This can be triggered by factors like a high-sugar diet, excessive alcohol consumption, obesity, and even genetics. It's a silent condition that can progress if left unchecked," writes Nutritionist Bhakti Arora Kapoor in her recent Instagram post.Dietary adjustments: Opt for a balanced diet rich in fruits, vegetables, whole grains, and lean proteins. Limit sugar, processed foods, and saturated fats`,
         user: 'Tapatrisha Das'
     },
