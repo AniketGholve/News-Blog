@@ -11,23 +11,21 @@ const Footer = () => {
     { text: 'Food', url: '/food' },
   ];
   const socialMediaLinks = [
-    { name: 'Facebook', url: 'https://www.facebook.com/yourpage' },
-    { name: 'Twitter', url: 'https://twitter.com/yourpage' },
-    { name: 'Instagram', url: 'https://www.instagram.com/yourpage' },
-    { name: 'Linkden', url: 'https://www.instagram.com/yourpage' },
-    { name: 'Youtube', url: 'https://www.instagram.com/yourpage' },
+    { name: 'Facebook', url: 'https://www.facebook.com/aniketgholve02/' },
+    { name: 'Instagram', url: 'https://www.instagram.com/aniket_gholve_02/' },
+    { name: 'Linkedin', url: 'https://www.linkedin.com/in/aniket-gholve/' },
   ];
   const companyLink = [
-    { name: 'About Us', url: 'https://www.facebook.com/yourpage' },
-    { name: 'Careers', url: 'https://twitter.com/yourpage' },
-    { name: 'Management Team', url: 'https://www.instagram.com/yourpage' },
-    { name: 'Blog', url: 'https://www.instagram.com/yourpage' },
-    { name: 'Contact Us', url: 'https://www.instagram.com/yourpage' }
+    { name: 'About Us', url: 'https://www.linkedin.com/in/aniket-gholve/' },
+    { name: 'Careers', url: 'https://www.linkedin.com/in/aniket-gholve/' },
+    { name: 'Management Team', url: 'https://www.linkedin.com/in/aniket-gholve/' },
+    { name: 'Blog', url: 'https://www.linkedin.com/in/aniket-gholve/' },
+    { name: 'Contact Us', url: 'https://www.linkedin.com/in/aniket-gholve/' }
   ];
   const partner = [
-    { name: 'All Partner', url: 'https://www.facebook.com/yourpage' },
-    { name: 'Solution Partner ', url: 'https://twitter.com/yourpage' },
-    { name: 'Partner Program', url: 'https://www.instagram.com/yourpage' },
+    { name: 'All Partner', url: 'https://www.linkedin.com/in/aniket-gholve/' },
+    { name: 'Solution Partner ', url: 'https://www.linkedin.com/in/aniket-gholve/' },
+    { name: 'Partner Program', url: 'https://www.linkedin.com/in/aniket-gholve/' },
   ];
   const [activeFooterBlog, setActiveFooterBlog] = useState(false);
   const [activeFooterSocial, setActiveFooterSocial] = useState(false);
@@ -63,7 +61,7 @@ const Footer = () => {
           <ul>
             {socialMediaLinks.map((link, index) => (
               <li key={index}>
-                <a href={link.url}>{link.name}</a>
+                <a target="_blank" rel="noreferrer" href={link.url}>{link.name}</a>
               </li>
             ))}
           </ul>
@@ -75,7 +73,7 @@ const Footer = () => {
           <ul>
             {companyLink.map((link, index) => (
               <li key={index}>
-                <a href={link.url}>{link.name}</a>
+                <a target="_blank" rel="noreferrer" href={link.url}>{link.name}</a>
               </li>
             ))}
           </ul>
@@ -87,7 +85,7 @@ const Footer = () => {
           <ul>
             {partner.map((link, index) => (
               <li key={index}>
-                <a href={link.url}>{link.name}</a>
+                <a target="_blank" rel="noreferrer" href={link.url}>{link.name}</a>
               </li>
             ))}
           </ul>

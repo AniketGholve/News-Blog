@@ -296,7 +296,9 @@ img:hover {
     color: white;
     line-height: 2.2;
 }
-
+.footer-links ul li a:hover{
+    text-decoration: underline;
+}
 
 .footer-heading {
     padding-left: 40px;
