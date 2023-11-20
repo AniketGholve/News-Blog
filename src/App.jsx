@@ -8,13 +8,17 @@ import Hollywood from './Components/Hollywood'
 import Food from './Components/Food'
 import Fitness from './Components/Fitness'
 
-import { createContext } from 'react';
-import data from './data/BlogData';
+import { createContext, useEffect, useState } from 'react';
 import Details from './Components/Details'
 import Footer from './Components/Footer'
+import axios from 'axios'
 
 export const Store = createContext();
 function App() {
+  let [data, setData] = useState([])
+  useEffect(() => {
+    axios.get("http://localhost:3000/blogData").then((res) => setData(res.data))
+  }, [data])
   return (
     <>
       <div className='header'><span>The</span>Siren</div>
@@ -31,7 +35,7 @@ function App() {
           <Route path='/details/:id' element={<Details />}></Route>
         </Routes >
       </Store.Provider>
-      <Footer/>
+      <Footer />
     </>
   )
 }

@@ -4,7 +4,6 @@ import { Link, useLocation } from 'react-router-dom'
 
 const ImageSlider = ({ store, category }) => {
     let path = useLocation().pathname;
-    console.log(path)
     return (
         <>
             <HeroSlider autoplay dots='true' controller={{
