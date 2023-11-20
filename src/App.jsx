@@ -17,7 +17,7 @@ export const Store = createContext();
 function App() {
   let [data, setData] = useState([])
   useEffect(() => {
-    axios.get("http://localhost:3000/blogData").then((res) => setData(res.data))
+    axios.get("https://news-blog-backend.onrender.com/blogData").then((res) => setData(res.data))
   }, [data])
   return (
     <>
